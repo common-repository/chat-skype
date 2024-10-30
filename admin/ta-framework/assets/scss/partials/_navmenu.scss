@@ -1,0 +1,58 @@
+/**
+ * 08. Nav Menu
+ */
+.scs-nav-menu-options{
+  clear: both;
+  float: left;
+  width: 100%;
+
+  > .scs-fields{
+    margin: 10px -10px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+
+    > .scs-field{
+      padding: 12px;
+
+      .scs-title{
+        float: none;
+        width: 100%;
+        margin-bottom: 5px;
+      }
+
+      .scs-fieldset{
+        float: none;
+        width: 100%;
+      }
+    }
+  }
+
+  .scs-field-text input{
+    width: 100%;
+  }
+
+  .scs-field-notice .scs-notice{
+    padding: 15px;
+  }
+}
+
+.scs-nav-menu-title{
+  padding: 12px;
+  background-color: #f5f5f5;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+
+  &:first-child{
+    border-top: 0;
+  }
+
+  h4{
+    margin: 0;
+    padding: 0;
+    color: #23282d;
+  }
+}
+
+.scs-nav-menu-icon{
+  margin-right: 5px;
+}

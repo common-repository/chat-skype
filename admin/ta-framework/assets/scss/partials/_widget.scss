@@ -1,0 +1,67 @@
+/**
+ * 04. Widget
+ */
+.scs-widgets{
+
+  > .scs-field{
+    position: relative;
+    top: -1px;
+    margin-left: -15px;
+    margin-right: -15px;
+    padding: 12px 15px;
+
+    .scs-title{
+      float: none;
+      width: 100%;
+      margin-bottom: 5px;
+    }
+
+    .scs-fieldset{
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .scs-field-text input{
+    width: 100%;
+  }
+
+  .scs-field-notice .scs-notice{
+    padding: 15px;
+  }
+}
+
+.control-section{
+
+  .scs-widgets{
+
+    > .scs-field{
+      margin-left: -10px;
+      margin-right: -10px;
+      padding: 10px 12px;
+    }
+  }
+}
+
+.wp-block{
+
+  .scs-widgets{
+    font-size: 13px;
+
+    > .scs-field{
+      margin-left: -10px;
+      margin-right: -10px;
+
+      .button-primary{
+        color: #fff;
+      }
+
+      > .scs-title{
+
+        > h4{
+          font-size: 13px;
+        }
+      }
+    }
+  }
+}

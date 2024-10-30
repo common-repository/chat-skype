@@ -1,0 +1,185 @@
+/**
+ * 05. Widget
+ */
+.control-section{
+
+  .scs-field{
+    padding: 0;
+
+    .scs-title{
+      float: none;
+      width: 100%;
+      margin-bottom: 6px;
+
+      h4{
+        display: block;
+        font-size: 13px;
+        line-height: 1;
+        font-weight: 600;
+        color: inherit;
+      }
+    }
+
+    .scs-fieldset{
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .scs-help{
+    top: -5px;
+    right: -5px;
+  }
+
+  .scs-field-select select{
+    width: 100%;
+  }
+
+  .scs-field-heading{
+    color: inherit;
+    font-size: 14px;
+    line-height: 1em;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 15px;
+  }
+
+  .scs-field-subheading{
+    color: inherit;
+    font-size: 11px;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 10px 15px;
+  }
+
+  .scs-subtitle-text{
+    margin-top: 4px;
+    font-size: 12px;
+  }
+
+  .scs-field-submessage .scs-submessage{
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 15px;
+  }
+
+  .scs-fieldset{
+
+    .scs-field-submessage .scs-submessage,
+    .scs-field-heading,
+    .scs-field-subheading{
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  .scs-field-date,
+  .scs-field-datetime{
+
+    label{
+      display: block;
+    }
+
+    .scs--to{
+      margin-top: 4px;
+      margin-left: 0;
+    }
+  }
+
+  .scs-field-sorter{
+
+    ul li{
+      padding: 5px;
+    }
+
+    .scs-modules{
+      float: none;
+      width: 100%;
+    }
+
+    .scs-modules:first-child{
+      padding-right: 0;
+      padding-bottom: 15px;
+    }
+  }
+
+  .scs-field-background{
+
+    .scs--background-attributes{
+      flex-direction: column;
+    }
+  }
+
+  .scs-field-spacing{
+    input{
+      width: 90px;
+    }
+  }
+
+  .scs-field-border{
+
+    .scs--input{
+      flex: 1 50%;
+    }
+
+    input,
+    select{
+      width: 100%;
+    }
+  }
+
+  .scs-field-spinner{
+    input{
+      width: 50px;
+    }
+  }
+
+  .scs-field-number{
+
+    .scs--wrap{
+      width: 100%;
+    }
+  }
+
+  .scs-field-backup{
+
+    .scs-export-data{
+      display: none;
+    }
+  }
+
+  .scs-field-fieldset{
+
+    .scs-fieldset-content{
+      border-color: #e5e5e5;
+    }
+  }
+
+  .scs-tabbed-content,
+  .scs-sortable-content,
+  .scs-repeater-content,
+  .scs-fieldset-content,
+  .scs-cloneable-content,
+  .scs-accordion-content{
+
+    > .scs-field{
+      padding: 10px;
+
+      .scs-title{
+        margin-bottom: 5px;
+      }
+
+      h4{
+        font-size: 12px;
+      }
+    }
+  }
+
+  .scs-depend-hidden.scs-depend-on{
+    display: none !important;
+  }
+
+  .scs-depend-visible.scs-depend-on{
+    border-top: 0 !important;
+  }
+}

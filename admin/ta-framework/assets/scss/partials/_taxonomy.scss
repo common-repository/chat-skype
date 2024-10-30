@@ -1,0 +1,114 @@
+/**
+ * 06. Taxonomy
+ */
+.scs-taxonomy{
+  max-width: 95%;
+
+  > .scs-field{
+    border-top: none !important;
+  }
+
+  > .scs-field-heading{
+    font-size: 1.1em;
+    padding: 20px !important;
+    border: 1px solid #ddd;
+  }
+
+  > .scs-field-subheading{
+    font-size: 12px;
+    padding: 15px !important;
+    border: 1px solid #ddd;
+  }
+
+  > .scs-field-submessage{
+
+    .scs-submessage{
+      padding: 15px;
+      border-left-width: 1px;
+      border-left-style: solid;
+      border-right-width: 1px;
+      border-right-style: solid;
+    }
+  }
+
+  > .scs-field-notice{
+    background-color: transparent;
+  }
+
+  .scs-section-title{
+    display: block;
+    padding: 15px ;
+    background-color: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+  }
+}
+
+.scs-taxonomy-add-fields{
+
+  > .scs-field{
+    padding: 8px 0;
+
+    > .scs-title{
+      float: none;
+      width: 100%;
+      padding: 2px 2px 4px 0;
+
+      h4{
+        font-size: 12px;
+        font-weight: normal;
+      }
+    }
+
+    > .scs-fieldset{
+      float: none;
+      width: 100%;
+
+      > .scs-help{
+        right: -5px;
+      }
+    }
+  }
+
+  + p.submit{
+    margin-top: 0;
+  }
+}
+
+.scs-taxonomy-edit-fields{
+
+  > .scs-field{
+    padding: 20px 0;
+
+    > .scs-title{
+      width: 200px;
+
+      h4{
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 1.3;
+        display: inline-block;
+        vertical-align: middle;
+      }
+    }
+
+    > .scs-fieldset{
+      width: calc(100% - 220px);
+
+      > .scs-help{
+        top: -5px;
+        right: -5px;
+      }
+    }
+  }
+
+  > .scs-field-submessage{
+    margin: 20px 0;
+  }
+
+  > .scs-field-subheading,
+  > .scs-field-heading{
+    margin: 20px 0;
+    border: 1px solid #ddd;
+  }
+}

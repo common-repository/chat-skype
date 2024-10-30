@@ -1,0 +1,4159 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Chat for Skype\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-14 06:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: chat-skype"
+
+#. 1: Elementor
+#: view/elementor-widgets/elementor-widget.php:214
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Elementor 2: Required Elementor version
+#. 1: PHP 2: Required PHP version
+#: view/elementor-widgets/elementor-widget.php:235
+#: view/elementor-widgets/elementor-widget.php:254
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: admin/fields/background/background.php:116
+msgid "&#8658; left to right"
+msgstr ""
+
+#: admin/fields/background/background.php:115
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: admin/fields/background/background.php:117
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: admin/fields/background/background.php:118
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:24
+msgid "008801813381520"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:29
+#: view/shortcodes/custom-shortcode.php:30
+#: view/shortcodes/custom-shortcode.php:31
+#: view/shortcodes/custom-shortcode.php:32
+#: view/shortcodes/custom-shortcode.php:33
+#: view/shortcodes/custom-shortcode.php:34
+#: view/shortcodes/custom-shortcode.php:35
+msgid "00:00-23:59"
+msgstr ""
+
+#: inc/scs-plugin-options.php:649
+msgid ""
+"24-hour Time without PM:AM\" eg: From 00:00 to 23:59. If you are offline for "
+"any specefic full day use 00:00 and 00:00 in From and To value."
+msgstr ""
+
+#: admin/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr ""
+
+#: inc/scs-plugin-options.php:817
+msgid "Add add custom message for shoing in message box."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:84
+msgid "Add agent photo to show in button."
+msgstr ""
+
+#: inc/scs-plugin-options.php:783
+msgid "Add agent photo to show in the bubble."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:153
+msgid "Add custom badget text when user in offline."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:139
+msgid "Add custom badget text when user in online."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:128
+msgid "Add custom button label."
+msgstr ""
+
+#: admin/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: admin/fields/icon/icon.php:20 admin/fields/icon/icon.php:53
+msgid "Add Icon"
+msgstr ""
+
+#: admin/fields/link/link.php:20
+msgid "Add Link"
+msgstr ""
+
+#: inc/scs-plugin-options.php:837
+msgid "Add messasge button text"
+msgstr ""
+
+#: admin/fields/group/group.php:23
+msgid "Add New"
+msgstr ""
+
+#: inc/scs-plugin-options.php:807
+msgid "Add subtitle to show under agent name"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:59
+msgid "Add your Skype ID including country code. eg: myskypeid345"
+msgstr ""
+
+#: inc/scs-plugin-options.php:629
+msgid "Add your skype ID. eg: myskypeid1222"
+msgstr ""
+
+#: inc/scs-plugin-options.php:797
+msgid "Add your/agent name for shoing in bubble."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:73
+msgid "Advanced button"
+msgstr ""
+
+#: inc/scs-plugin-options.php:7 view/elementor-widgets/widgets/buttons.php:190
+msgid "Africa/Abidjan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:8 view/elementor-widgets/widgets/buttons.php:191
+msgid "Africa/Accra"
+msgstr ""
+
+#: inc/scs-plugin-options.php:9 view/elementor-widgets/widgets/buttons.php:192
+msgid "Africa/Addis_Ababa"
+msgstr ""
+
+#: inc/scs-plugin-options.php:10 view/elementor-widgets/widgets/buttons.php:193
+msgid "Africa/Algiers"
+msgstr ""
+
+#: inc/scs-plugin-options.php:11 view/elementor-widgets/widgets/buttons.php:194
+msgid "Africa/Asmara"
+msgstr ""
+
+#: inc/scs-plugin-options.php:12 view/elementor-widgets/widgets/buttons.php:195
+msgid "Africa/Asmera"
+msgstr ""
+
+#: inc/scs-plugin-options.php:13 view/elementor-widgets/widgets/buttons.php:196
+msgid "Africa/Bamako"
+msgstr ""
+
+#: inc/scs-plugin-options.php:14 view/elementor-widgets/widgets/buttons.php:197
+msgid "Africa/Bangui"
+msgstr ""
+
+#: inc/scs-plugin-options.php:15 view/elementor-widgets/widgets/buttons.php:198
+msgid "Africa/Banjul"
+msgstr ""
+
+#: inc/scs-plugin-options.php:16 view/elementor-widgets/widgets/buttons.php:199
+msgid "Africa/Bissau"
+msgstr ""
+
+#: inc/scs-plugin-options.php:17 view/elementor-widgets/widgets/buttons.php:200
+msgid "Africa/Blantyre"
+msgstr ""
+
+#: inc/scs-plugin-options.php:18 view/elementor-widgets/widgets/buttons.php:201
+msgid "Africa/Brazzaville"
+msgstr ""
+
+#: inc/scs-plugin-options.php:19 view/elementor-widgets/widgets/buttons.php:202
+msgid "Africa/Bujumbura"
+msgstr ""
+
+#: inc/scs-plugin-options.php:20 view/elementor-widgets/widgets/buttons.php:203
+msgid "Africa/Cairo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:21 view/elementor-widgets/widgets/buttons.php:204
+msgid "Africa/Casablanca"
+msgstr ""
+
+#: inc/scs-plugin-options.php:22 view/elementor-widgets/widgets/buttons.php:205
+msgid "Africa/Ceuta"
+msgstr ""
+
+#: inc/scs-plugin-options.php:23 view/elementor-widgets/widgets/buttons.php:206
+msgid "Africa/Conakry"
+msgstr ""
+
+#: inc/scs-plugin-options.php:24 view/elementor-widgets/widgets/buttons.php:207
+msgid "Africa/Dakar"
+msgstr ""
+
+#: inc/scs-plugin-options.php:25 view/elementor-widgets/widgets/buttons.php:208
+msgid "Africa/Dar_es_Salaam"
+msgstr ""
+
+#: inc/scs-plugin-options.php:26 view/elementor-widgets/widgets/buttons.php:209
+msgid "Africa/Djibouti"
+msgstr ""
+
+#: inc/scs-plugin-options.php:27 view/elementor-widgets/widgets/buttons.php:210
+msgid "Africa/Douala"
+msgstr ""
+
+#: inc/scs-plugin-options.php:28 view/elementor-widgets/widgets/buttons.php:211
+msgid "Africa/El_Aaiun"
+msgstr ""
+
+#: inc/scs-plugin-options.php:29 view/elementor-widgets/widgets/buttons.php:212
+msgid "Africa/Freetown"
+msgstr ""
+
+#: inc/scs-plugin-options.php:30 view/elementor-widgets/widgets/buttons.php:213
+msgid "Africa/Gaborone"
+msgstr ""
+
+#: inc/scs-plugin-options.php:31 view/elementor-widgets/widgets/buttons.php:214
+msgid "Africa/Harare"
+msgstr ""
+
+#: inc/scs-plugin-options.php:32 view/elementor-widgets/widgets/buttons.php:215
+msgid "Africa/Johannesburg"
+msgstr ""
+
+#: inc/scs-plugin-options.php:33 view/elementor-widgets/widgets/buttons.php:216
+msgid "Africa/Juba"
+msgstr ""
+
+#: inc/scs-plugin-options.php:34 view/elementor-widgets/widgets/buttons.php:217
+msgid "Africa/Kampala"
+msgstr ""
+
+#: inc/scs-plugin-options.php:35 view/elementor-widgets/widgets/buttons.php:218
+msgid "Africa/Khartoum"
+msgstr ""
+
+#: inc/scs-plugin-options.php:36 view/elementor-widgets/widgets/buttons.php:219
+msgid "Africa/Kigali"
+msgstr ""
+
+#: inc/scs-plugin-options.php:37 view/elementor-widgets/widgets/buttons.php:220
+msgid "Africa/Kinshasa"
+msgstr ""
+
+#: inc/scs-plugin-options.php:38 view/elementor-widgets/widgets/buttons.php:221
+msgid "Africa/Lagos"
+msgstr ""
+
+#: inc/scs-plugin-options.php:39 view/elementor-widgets/widgets/buttons.php:222
+msgid "Africa/Libreville"
+msgstr ""
+
+#: inc/scs-plugin-options.php:40 view/elementor-widgets/widgets/buttons.php:223
+msgid "Africa/Lome"
+msgstr ""
+
+#: inc/scs-plugin-options.php:41 view/elementor-widgets/widgets/buttons.php:224
+msgid "Africa/Luanda"
+msgstr ""
+
+#: inc/scs-plugin-options.php:42 view/elementor-widgets/widgets/buttons.php:225
+msgid "Africa/Lubumbashi"
+msgstr ""
+
+#: inc/scs-plugin-options.php:43 view/elementor-widgets/widgets/buttons.php:226
+msgid "Africa/Lusaka"
+msgstr ""
+
+#: inc/scs-plugin-options.php:44 view/elementor-widgets/widgets/buttons.php:227
+msgid "Africa/Malabo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:45 view/elementor-widgets/widgets/buttons.php:228
+msgid "Africa/Maputo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:46 view/elementor-widgets/widgets/buttons.php:229
+msgid "Africa/Maseru"
+msgstr ""
+
+#: inc/scs-plugin-options.php:47 view/elementor-widgets/widgets/buttons.php:230
+msgid "Africa/Mbabane"
+msgstr ""
+
+#: inc/scs-plugin-options.php:48 view/elementor-widgets/widgets/buttons.php:231
+msgid "Africa/Mogadishu"
+msgstr ""
+
+#: inc/scs-plugin-options.php:49 view/elementor-widgets/widgets/buttons.php:232
+msgid "Africa/Monrovia"
+msgstr ""
+
+#: inc/scs-plugin-options.php:50 view/elementor-widgets/widgets/buttons.php:233
+msgid "Africa/Nairobi"
+msgstr ""
+
+#: inc/scs-plugin-options.php:51 view/elementor-widgets/widgets/buttons.php:234
+msgid "Africa/Ndjamena"
+msgstr ""
+
+#: inc/scs-plugin-options.php:52 view/elementor-widgets/widgets/buttons.php:235
+msgid "Africa/Niamey"
+msgstr ""
+
+#: inc/scs-plugin-options.php:53 view/elementor-widgets/widgets/buttons.php:236
+msgid "Africa/Nouakchott"
+msgstr ""
+
+#: inc/scs-plugin-options.php:54 view/elementor-widgets/widgets/buttons.php:237
+msgid "Africa/Ouagadougou"
+msgstr ""
+
+#: inc/scs-plugin-options.php:55 view/elementor-widgets/widgets/buttons.php:238
+msgid "Africa/Porto-Novo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:56 view/elementor-widgets/widgets/buttons.php:239
+msgid "Africa/Sao_Tome"
+msgstr ""
+
+#: inc/scs-plugin-options.php:57 view/elementor-widgets/widgets/buttons.php:240
+msgid "Africa/Timbuktu"
+msgstr ""
+
+#: inc/scs-plugin-options.php:58 view/elementor-widgets/widgets/buttons.php:241
+msgid "Africa/Tripoli"
+msgstr ""
+
+#: inc/scs-plugin-options.php:59 view/elementor-widgets/widgets/buttons.php:242
+msgid "Africa/Tunis"
+msgstr ""
+
+#: inc/scs-plugin-options.php:60 view/elementor-widgets/widgets/buttons.php:243
+msgid "Africa/Windhoek"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:113
+msgid "Agent designation"
+msgstr ""
+
+#: inc/scs-plugin-options.php:796 view/elementor-widgets/widgets/buttons.php:99
+msgid "Agent name"
+msgstr ""
+
+#: inc/scs-plugin-options.php:782 view/elementor-widgets/widgets/buttons.php:83
+msgid "Agent photo"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1320
+msgid "Alignment"
+msgstr ""
+
+#: admin/fields/border/border.php:29 admin/fields/spacing/spacing.php:34
+msgid "all"
+msgstr ""
+
+#: admin/fields/typography/typography.php:188
+msgid "All Small Caps"
+msgstr ""
+
+#: inc/scs-plugin-options.php:61 view/elementor-widgets/widgets/buttons.php:244
+msgid "America/Adak"
+msgstr ""
+
+#: inc/scs-plugin-options.php:62 view/elementor-widgets/widgets/buttons.php:245
+msgid "America/Anchorage"
+msgstr ""
+
+#: inc/scs-plugin-options.php:63 view/elementor-widgets/widgets/buttons.php:246
+msgid "America/Anguilla"
+msgstr ""
+
+#: inc/scs-plugin-options.php:64 view/elementor-widgets/widgets/buttons.php:247
+msgid "America/Antigua"
+msgstr ""
+
+#: inc/scs-plugin-options.php:65 inc/scs-plugin-options.php:110
+#: inc/scs-plugin-options.php:112
+#: view/elementor-widgets/widgets/buttons.php:248
+#: view/elementor-widgets/widgets/buttons.php:293
+#: view/elementor-widgets/widgets/buttons.php:295
+msgid "America/Araguaina"
+msgstr ""
+
+#: inc/scs-plugin-options.php:66 view/elementor-widgets/widgets/buttons.php:249
+msgid "America/Argentina/Buenos_Aires"
+msgstr ""
+
+#: inc/scs-plugin-options.php:67 view/elementor-widgets/widgets/buttons.php:250
+msgid "America/Argentina/Catamarca"
+msgstr ""
+
+#: inc/scs-plugin-options.php:68 view/elementor-widgets/widgets/buttons.php:251
+msgid "America/Argentina/ComodRivadavia"
+msgstr ""
+
+#: inc/scs-plugin-options.php:69 view/elementor-widgets/widgets/buttons.php:252
+msgid "America/Argentina/Cordoba"
+msgstr ""
+
+#: inc/scs-plugin-options.php:70 view/elementor-widgets/widgets/buttons.php:253
+msgid "America/Argentina/Jujuy"
+msgstr ""
+
+#: inc/scs-plugin-options.php:71 view/elementor-widgets/widgets/buttons.php:254
+msgid "America/Argentina/La_Rioja"
+msgstr ""
+
+#: inc/scs-plugin-options.php:72 view/elementor-widgets/widgets/buttons.php:255
+msgid "America/Argentina/Mendoza"
+msgstr ""
+
+#: inc/scs-plugin-options.php:73 view/elementor-widgets/widgets/buttons.php:256
+msgid "America/Argentina/Rio_Gallegos"
+msgstr ""
+
+#: inc/scs-plugin-options.php:74 view/elementor-widgets/widgets/buttons.php:257
+msgid "America/Argentina/Salta"
+msgstr ""
+
+#: inc/scs-plugin-options.php:75 view/elementor-widgets/widgets/buttons.php:258
+msgid "America/Argentina/San_Juan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:76 view/elementor-widgets/widgets/buttons.php:259
+msgid "America/Argentina/San_Luis"
+msgstr ""
+
+#: inc/scs-plugin-options.php:77 view/elementor-widgets/widgets/buttons.php:260
+msgid "America/Argentina/Tucuman"
+msgstr ""
+
+#: inc/scs-plugin-options.php:78 view/elementor-widgets/widgets/buttons.php:261
+msgid "America/Argentina/Ushuaia"
+msgstr ""
+
+#: inc/scs-plugin-options.php:79 view/elementor-widgets/widgets/buttons.php:262
+msgid "America/Aruba"
+msgstr ""
+
+#: inc/scs-plugin-options.php:80 view/elementor-widgets/widgets/buttons.php:263
+msgid "America/Asuncion"
+msgstr ""
+
+#: inc/scs-plugin-options.php:81 view/elementor-widgets/widgets/buttons.php:264
+msgid "America/Atikokan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:82 view/elementor-widgets/widgets/buttons.php:265
+msgid "America/Atka"
+msgstr ""
+
+#: inc/scs-plugin-options.php:83 view/elementor-widgets/widgets/buttons.php:266
+msgid "America/Bahia"
+msgstr ""
+
+#: inc/scs-plugin-options.php:84 view/elementor-widgets/widgets/buttons.php:267
+msgid "America/Bahia_Banderas"
+msgstr ""
+
+#: inc/scs-plugin-options.php:85 view/elementor-widgets/widgets/buttons.php:268
+msgid "America/Barbados"
+msgstr ""
+
+#: inc/scs-plugin-options.php:86 view/elementor-widgets/widgets/buttons.php:269
+msgid "America/Belem"
+msgstr ""
+
+#: inc/scs-plugin-options.php:87 view/elementor-widgets/widgets/buttons.php:270
+msgid "America/Belize"
+msgstr ""
+
+#: inc/scs-plugin-options.php:88 view/elementor-widgets/widgets/buttons.php:271
+msgid "America/Blanc-Sablon"
+msgstr ""
+
+#: inc/scs-plugin-options.php:89 view/elementor-widgets/widgets/buttons.php:272
+msgid "America/Boa_Vista"
+msgstr ""
+
+#: inc/scs-plugin-options.php:90 view/elementor-widgets/widgets/buttons.php:273
+msgid "America/Bogota"
+msgstr ""
+
+#: inc/scs-plugin-options.php:91 view/elementor-widgets/widgets/buttons.php:274
+msgid "America/Boise"
+msgstr ""
+
+#: inc/scs-plugin-options.php:92 view/elementor-widgets/widgets/buttons.php:275
+msgid "America/Buenos_Aires"
+msgstr ""
+
+#: inc/scs-plugin-options.php:93 view/elementor-widgets/widgets/buttons.php:276
+msgid "America/Cambridge_Bay"
+msgstr ""
+
+#: inc/scs-plugin-options.php:94 view/elementor-widgets/widgets/buttons.php:277
+msgid "America/Campo_Grande"
+msgstr ""
+
+#: inc/scs-plugin-options.php:95 view/elementor-widgets/widgets/buttons.php:278
+msgid "America/Cancun"
+msgstr ""
+
+#: inc/scs-plugin-options.php:96 view/elementor-widgets/widgets/buttons.php:279
+msgid "America/Caracas"
+msgstr ""
+
+#: inc/scs-plugin-options.php:97 view/elementor-widgets/widgets/buttons.php:280
+msgid "America/Catamarca"
+msgstr ""
+
+#: inc/scs-plugin-options.php:98 view/elementor-widgets/widgets/buttons.php:281
+msgid "America/Cayenne"
+msgstr ""
+
+#: inc/scs-plugin-options.php:99 view/elementor-widgets/widgets/buttons.php:282
+msgid "America/Cayman"
+msgstr ""
+
+#: inc/scs-plugin-options.php:100
+#: view/elementor-widgets/widgets/buttons.php:283
+msgid "America/Chicago"
+msgstr ""
+
+#: inc/scs-plugin-options.php:101
+#: view/elementor-widgets/widgets/buttons.php:284
+msgid "America/Chihuahua"
+msgstr ""
+
+#: inc/scs-plugin-options.php:102
+#: view/elementor-widgets/widgets/buttons.php:285
+msgid "America/Coral_Harbour"
+msgstr ""
+
+#: inc/scs-plugin-options.php:103
+#: view/elementor-widgets/widgets/buttons.php:286
+msgid "America/Cordoba"
+msgstr ""
+
+#: inc/scs-plugin-options.php:104
+#: view/elementor-widgets/widgets/buttons.php:287
+msgid "America/Costa_Rica"
+msgstr ""
+
+#: inc/scs-plugin-options.php:105
+#: view/elementor-widgets/widgets/buttons.php:288
+msgid "America/Creston"
+msgstr ""
+
+#: inc/scs-plugin-options.php:106
+#: view/elementor-widgets/widgets/buttons.php:289
+msgid "America/Cuiaba"
+msgstr ""
+
+#: inc/scs-plugin-options.php:107
+#: view/elementor-widgets/widgets/buttons.php:290
+msgid "America/Curacao"
+msgstr ""
+
+#: inc/scs-plugin-options.php:108
+#: view/elementor-widgets/widgets/buttons.php:291
+msgid "America/Danmarkshavn"
+msgstr ""
+
+#: inc/scs-plugin-options.php:109
+#: view/elementor-widgets/widgets/buttons.php:292
+msgid "America/Dawson"
+msgstr ""
+
+#: inc/scs-plugin-options.php:111
+#: view/elementor-widgets/widgets/buttons.php:294
+msgid "America/Denver"
+msgstr ""
+
+#: inc/scs-plugin-options.php:113
+#: view/elementor-widgets/widgets/buttons.php:296
+msgid "America/Dominica"
+msgstr ""
+
+#: inc/scs-plugin-options.php:114
+#: view/elementor-widgets/widgets/buttons.php:297
+msgid "America/Edmonton"
+msgstr ""
+
+#: inc/scs-plugin-options.php:115
+#: view/elementor-widgets/widgets/buttons.php:298
+msgid "America/Eirunepe"
+msgstr ""
+
+#: inc/scs-plugin-options.php:116
+#: view/elementor-widgets/widgets/buttons.php:299
+msgid "America/El_Salvador"
+msgstr ""
+
+#: inc/scs-plugin-options.php:117
+#: view/elementor-widgets/widgets/buttons.php:300
+msgid "America/Ensenada"
+msgstr ""
+
+#: inc/scs-plugin-options.php:118
+#: view/elementor-widgets/widgets/buttons.php:301
+msgid "America/Fort_Nelson"
+msgstr ""
+
+#: inc/scs-plugin-options.php:119
+#: view/elementor-widgets/widgets/buttons.php:302
+msgid "America/Fort_Wayne"
+msgstr ""
+
+#: inc/scs-plugin-options.php:120
+#: view/elementor-widgets/widgets/buttons.php:303
+msgid "America/Fortaleza"
+msgstr ""
+
+#: inc/scs-plugin-options.php:121
+#: view/elementor-widgets/widgets/buttons.php:304
+msgid "America/Glace_Bay"
+msgstr ""
+
+#: inc/scs-plugin-options.php:122
+#: view/elementor-widgets/widgets/buttons.php:305
+msgid "America/Godthab"
+msgstr ""
+
+#: inc/scs-plugin-options.php:123
+#: view/elementor-widgets/widgets/buttons.php:306
+msgid "America/Goose_Bay"
+msgstr ""
+
+#: inc/scs-plugin-options.php:124
+#: view/elementor-widgets/widgets/buttons.php:307
+msgid "America/Grand_Turk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:125
+#: view/elementor-widgets/widgets/buttons.php:308
+msgid "America/Grenada"
+msgstr ""
+
+#: inc/scs-plugin-options.php:126
+#: view/elementor-widgets/widgets/buttons.php:309
+msgid "America/Guadeloupe"
+msgstr ""
+
+#: inc/scs-plugin-options.php:127
+#: view/elementor-widgets/widgets/buttons.php:310
+msgid "America/Guatemala"
+msgstr ""
+
+#: inc/scs-plugin-options.php:128
+#: view/elementor-widgets/widgets/buttons.php:311
+msgid "America/Guayaquil"
+msgstr ""
+
+#: inc/scs-plugin-options.php:129
+#: view/elementor-widgets/widgets/buttons.php:312
+msgid "America/Guyana"
+msgstr ""
+
+#: inc/scs-plugin-options.php:130
+#: view/elementor-widgets/widgets/buttons.php:313
+msgid "America/Halifax"
+msgstr ""
+
+#: inc/scs-plugin-options.php:131
+#: view/elementor-widgets/widgets/buttons.php:314
+msgid "America/Havana"
+msgstr ""
+
+#: inc/scs-plugin-options.php:132
+#: view/elementor-widgets/widgets/buttons.php:315
+msgid "America/Hermosillo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:134
+#: view/elementor-widgets/widgets/buttons.php:317
+msgid "America/Indiana/Knox"
+msgstr ""
+
+#: inc/scs-plugin-options.php:135
+#: view/elementor-widgets/widgets/buttons.php:318
+msgid "America/Indiana/Marengo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:136
+#: view/elementor-widgets/widgets/buttons.php:319
+msgid "America/Indiana/Petersburg"
+msgstr ""
+
+#: inc/scs-plugin-options.php:137
+#: view/elementor-widgets/widgets/buttons.php:320
+msgid "America/Indiana/Tell_City"
+msgstr ""
+
+#: inc/scs-plugin-options.php:138
+#: view/elementor-widgets/widgets/buttons.php:321
+msgid "America/Indiana/Vevay"
+msgstr ""
+
+#: inc/scs-plugin-options.php:139
+#: view/elementor-widgets/widgets/buttons.php:322
+msgid "America/Indiana/Vincennes"
+msgstr ""
+
+#: inc/scs-plugin-options.php:140
+#: view/elementor-widgets/widgets/buttons.php:323
+msgid "America/Indiana/Winamac"
+msgstr ""
+
+#: inc/scs-plugin-options.php:141
+#: view/elementor-widgets/widgets/buttons.php:324
+msgid "America/Indianapolis"
+msgstr ""
+
+#: inc/scs-plugin-options.php:142
+#: view/elementor-widgets/widgets/buttons.php:325
+msgid "America/Inuvik"
+msgstr ""
+
+#: inc/scs-plugin-options.php:143
+#: view/elementor-widgets/widgets/buttons.php:326
+msgid "America/Iqaluit"
+msgstr ""
+
+#: inc/scs-plugin-options.php:144
+#: view/elementor-widgets/widgets/buttons.php:327
+msgid "America/Jamaica"
+msgstr ""
+
+#: inc/scs-plugin-options.php:145
+#: view/elementor-widgets/widgets/buttons.php:328
+msgid "America/Jujuy"
+msgstr ""
+
+#: inc/scs-plugin-options.php:146
+#: view/elementor-widgets/widgets/buttons.php:329
+msgid "America/Juneau"
+msgstr ""
+
+#: inc/scs-plugin-options.php:147
+#: view/elementor-widgets/widgets/buttons.php:330
+msgid "America/Kentucky/Louisville"
+msgstr ""
+
+#: inc/scs-plugin-options.php:148
+#: view/elementor-widgets/widgets/buttons.php:331
+msgid "America/Kentucky/Monticello"
+msgstr ""
+
+#: inc/scs-plugin-options.php:149
+#: view/elementor-widgets/widgets/buttons.php:332
+msgid "America/Knox_IN"
+msgstr ""
+
+#: inc/scs-plugin-options.php:150
+#: view/elementor-widgets/widgets/buttons.php:333
+msgid "America/Kralendijk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:151
+#: view/elementor-widgets/widgets/buttons.php:334
+msgid "America/La_Paz"
+msgstr ""
+
+#: inc/scs-plugin-options.php:152
+#: view/elementor-widgets/widgets/buttons.php:335
+msgid "America/Lima"
+msgstr ""
+
+#: inc/scs-plugin-options.php:153
+#: view/elementor-widgets/widgets/buttons.php:336
+msgid "America/Los_Angeles"
+msgstr ""
+
+#: inc/scs-plugin-options.php:154
+#: view/elementor-widgets/widgets/buttons.php:337
+msgid "America/Louisville"
+msgstr ""
+
+#: inc/scs-plugin-options.php:155
+#: view/elementor-widgets/widgets/buttons.php:338
+msgid "America/Lower_Princes"
+msgstr ""
+
+#: inc/scs-plugin-options.php:156
+#: view/elementor-widgets/widgets/buttons.php:339
+msgid "America/Maceio"
+msgstr ""
+
+#: inc/scs-plugin-options.php:157
+#: view/elementor-widgets/widgets/buttons.php:340
+msgid "America/Managua"
+msgstr ""
+
+#: inc/scs-plugin-options.php:158
+#: view/elementor-widgets/widgets/buttons.php:341
+msgid "America/Manaus"
+msgstr ""
+
+#: inc/scs-plugin-options.php:159
+#: view/elementor-widgets/widgets/buttons.php:342
+msgid "America/Marigot"
+msgstr ""
+
+#: inc/scs-plugin-options.php:160
+#: view/elementor-widgets/widgets/buttons.php:343
+msgid "America/Martinique"
+msgstr ""
+
+#: inc/scs-plugin-options.php:161
+#: view/elementor-widgets/widgets/buttons.php:344
+msgid "America/Matamoros"
+msgstr ""
+
+#: inc/scs-plugin-options.php:162
+#: view/elementor-widgets/widgets/buttons.php:345
+msgid "America/Mazatlan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:163
+#: view/elementor-widgets/widgets/buttons.php:346
+msgid "America/Mendoza"
+msgstr ""
+
+#: inc/scs-plugin-options.php:164
+#: view/elementor-widgets/widgets/buttons.php:347
+msgid "America/Menominee"
+msgstr ""
+
+#: inc/scs-plugin-options.php:165
+#: view/elementor-widgets/widgets/buttons.php:348
+msgid "America/Merida"
+msgstr ""
+
+#: inc/scs-plugin-options.php:166
+#: view/elementor-widgets/widgets/buttons.php:349
+msgid "America/Metlakatla"
+msgstr ""
+
+#: inc/scs-plugin-options.php:167
+#: view/elementor-widgets/widgets/buttons.php:350
+msgid "America/Mexico_City"
+msgstr ""
+
+#: inc/scs-plugin-options.php:168
+#: view/elementor-widgets/widgets/buttons.php:351
+msgid "America/Miquelon"
+msgstr ""
+
+#: inc/scs-plugin-options.php:169
+#: view/elementor-widgets/widgets/buttons.php:352
+msgid "America/Moncton"
+msgstr ""
+
+#: inc/scs-plugin-options.php:170
+#: view/elementor-widgets/widgets/buttons.php:353
+msgid "America/Monterrey"
+msgstr ""
+
+#: inc/scs-plugin-options.php:171
+#: view/elementor-widgets/widgets/buttons.php:354
+msgid "America/Montevideo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:172
+#: view/elementor-widgets/widgets/buttons.php:355
+msgid "America/Montreal"
+msgstr ""
+
+#: inc/scs-plugin-options.php:173
+#: view/elementor-widgets/widgets/buttons.php:356
+msgid "America/Montserrat"
+msgstr ""
+
+#: inc/scs-plugin-options.php:174
+#: view/elementor-widgets/widgets/buttons.php:357
+msgid "America/Nassau"
+msgstr ""
+
+#: inc/scs-plugin-options.php:175
+#: view/elementor-widgets/widgets/buttons.php:358
+msgid "America/New_York"
+msgstr ""
+
+#: inc/scs-plugin-options.php:176
+#: view/elementor-widgets/widgets/buttons.php:359
+msgid "America/Nipigon"
+msgstr ""
+
+#: inc/scs-plugin-options.php:177
+#: view/elementor-widgets/widgets/buttons.php:360
+msgid "America/Nome"
+msgstr ""
+
+#: inc/scs-plugin-options.php:178
+#: view/elementor-widgets/widgets/buttons.php:361
+msgid "America/Noronha"
+msgstr ""
+
+#: inc/scs-plugin-options.php:179
+#: view/elementor-widgets/widgets/buttons.php:362
+msgid "America/North_Dakota/Beulah"
+msgstr ""
+
+#: inc/scs-plugin-options.php:180
+#: view/elementor-widgets/widgets/buttons.php:363
+msgid "America/North_Dakota/Center"
+msgstr ""
+
+#: inc/scs-plugin-options.php:181
+#: view/elementor-widgets/widgets/buttons.php:364
+msgid "America/North_Dakota/New_Salem"
+msgstr ""
+
+#: inc/scs-plugin-options.php:182
+#: view/elementor-widgets/widgets/buttons.php:365
+msgid "America/Ojinaga"
+msgstr ""
+
+#: inc/scs-plugin-options.php:183
+#: view/elementor-widgets/widgets/buttons.php:366
+msgid "America/Panama"
+msgstr ""
+
+#: inc/scs-plugin-options.php:184
+#: view/elementor-widgets/widgets/buttons.php:367
+msgid "America/Pangnirtung"
+msgstr ""
+
+#: inc/scs-plugin-options.php:185
+#: view/elementor-widgets/widgets/buttons.php:368
+msgid "America/Paramaribo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:186
+#: view/elementor-widgets/widgets/buttons.php:369
+msgid "America/Phoenix"
+msgstr ""
+
+#: inc/scs-plugin-options.php:187
+#: view/elementor-widgets/widgets/buttons.php:370
+msgid "America/Port-au-Prince"
+msgstr ""
+
+#: inc/scs-plugin-options.php:188
+#: view/elementor-widgets/widgets/buttons.php:371
+msgid "America/Port_of_Spain"
+msgstr ""
+
+#: inc/scs-plugin-options.php:189
+#: view/elementor-widgets/widgets/buttons.php:372
+msgid "America/Porto_Acre"
+msgstr ""
+
+#: inc/scs-plugin-options.php:190
+#: view/elementor-widgets/widgets/buttons.php:373
+msgid "America/Porto_Velho"
+msgstr ""
+
+#: inc/scs-plugin-options.php:191
+#: view/elementor-widgets/widgets/buttons.php:374
+msgid "America/Puerto_Rico"
+msgstr ""
+
+#: inc/scs-plugin-options.php:192
+#: view/elementor-widgets/widgets/buttons.php:375
+msgid "America/Punta_Arenas"
+msgstr ""
+
+#: inc/scs-plugin-options.php:193
+#: view/elementor-widgets/widgets/buttons.php:376
+msgid "America/Rainy_River"
+msgstr ""
+
+#: inc/scs-plugin-options.php:194
+#: view/elementor-widgets/widgets/buttons.php:377
+msgid "America/Rankin_Inlet"
+msgstr ""
+
+#: inc/scs-plugin-options.php:195
+#: view/elementor-widgets/widgets/buttons.php:378
+msgid "America/Recife"
+msgstr ""
+
+#: inc/scs-plugin-options.php:196
+#: view/elementor-widgets/widgets/buttons.php:379
+msgid "America/Regina"
+msgstr ""
+
+#: inc/scs-plugin-options.php:197
+#: view/elementor-widgets/widgets/buttons.php:380
+msgid "America/Resolute"
+msgstr ""
+
+#: inc/scs-plugin-options.php:198
+#: view/elementor-widgets/widgets/buttons.php:381
+msgid "America/Rio_Branco"
+msgstr ""
+
+#: inc/scs-plugin-options.php:199
+#: view/elementor-widgets/widgets/buttons.php:382
+msgid "America/Rosario"
+msgstr ""
+
+#: inc/scs-plugin-options.php:200
+#: view/elementor-widgets/widgets/buttons.php:383
+msgid "America/Santa_Isabel"
+msgstr ""
+
+#: inc/scs-plugin-options.php:201
+#: view/elementor-widgets/widgets/buttons.php:384
+msgid "America/Santarem"
+msgstr ""
+
+#: inc/scs-plugin-options.php:202
+#: view/elementor-widgets/widgets/buttons.php:385
+msgid "America/Santiago"
+msgstr ""
+
+#: inc/scs-plugin-options.php:203
+#: view/elementor-widgets/widgets/buttons.php:386
+msgid "America/Santo_Domingo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:204
+#: view/elementor-widgets/widgets/buttons.php:387
+msgid "America/Sao_Paulo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:205
+#: view/elementor-widgets/widgets/buttons.php:388
+msgid "America/Scoresbysund"
+msgstr ""
+
+#: inc/scs-plugin-options.php:206
+#: view/elementor-widgets/widgets/buttons.php:389
+msgid "America/Shiprock"
+msgstr ""
+
+#: inc/scs-plugin-options.php:207
+#: view/elementor-widgets/widgets/buttons.php:390
+msgid "America/Sitka"
+msgstr ""
+
+#: inc/scs-plugin-options.php:208
+#: view/elementor-widgets/widgets/buttons.php:391
+msgid "America/St_Barthelemy"
+msgstr ""
+
+#: inc/scs-plugin-options.php:209
+#: view/elementor-widgets/widgets/buttons.php:392
+msgid "America/St_Johns"
+msgstr ""
+
+#: inc/scs-plugin-options.php:210
+#: view/elementor-widgets/widgets/buttons.php:393
+msgid "America/St_Kitts"
+msgstr ""
+
+#: inc/scs-plugin-options.php:211
+#: view/elementor-widgets/widgets/buttons.php:394
+msgid "America/St_Lucia"
+msgstr ""
+
+#: inc/scs-plugin-options.php:212
+#: view/elementor-widgets/widgets/buttons.php:395
+msgid "America/St_Thomas"
+msgstr ""
+
+#: inc/scs-plugin-options.php:213
+#: view/elementor-widgets/widgets/buttons.php:396
+msgid "America/St_Vincent"
+msgstr ""
+
+#: inc/scs-plugin-options.php:214
+#: view/elementor-widgets/widgets/buttons.php:397
+msgid "America/Swift_Current"
+msgstr ""
+
+#: inc/scs-plugin-options.php:215
+#: view/elementor-widgets/widgets/buttons.php:398
+msgid "America/Tegucigalpa"
+msgstr ""
+
+#: inc/scs-plugin-options.php:216
+#: view/elementor-widgets/widgets/buttons.php:399
+msgid "America/Thule"
+msgstr ""
+
+#: inc/scs-plugin-options.php:217
+#: view/elementor-widgets/widgets/buttons.php:400
+msgid "America/Thunder_Bay"
+msgstr ""
+
+#: inc/scs-plugin-options.php:218
+#: view/elementor-widgets/widgets/buttons.php:401
+msgid "America/Tijuana"
+msgstr ""
+
+#: inc/scs-plugin-options.php:219
+#: view/elementor-widgets/widgets/buttons.php:402
+msgid "America/Toronto"
+msgstr ""
+
+#: inc/scs-plugin-options.php:220
+#: view/elementor-widgets/widgets/buttons.php:403
+msgid "America/Tortola"
+msgstr ""
+
+#: inc/scs-plugin-options.php:221
+#: view/elementor-widgets/widgets/buttons.php:404
+msgid "America/Vancouver"
+msgstr ""
+
+#: inc/scs-plugin-options.php:222
+#: view/elementor-widgets/widgets/buttons.php:405
+msgid "America/Virgin"
+msgstr ""
+
+#: inc/scs-plugin-options.php:223
+#: view/elementor-widgets/widgets/buttons.php:406
+msgid "America/Whitehorse"
+msgstr ""
+
+#: inc/scs-plugin-options.php:224
+#: view/elementor-widgets/widgets/buttons.php:407
+msgid "America/Winnipeg"
+msgstr ""
+
+#: inc/scs-plugin-options.php:225
+#: view/elementor-widgets/widgets/buttons.php:408
+msgid "America/Yakutat"
+msgstr ""
+
+#: inc/scs-plugin-options.php:226
+#: view/elementor-widgets/widgets/buttons.php:409
+msgid "America/Yellowknife"
+msgstr ""
+
+#: inc/scs-plugin-options.php:227
+#: view/elementor-widgets/widgets/buttons.php:410
+msgid "Antarctica/Casey"
+msgstr ""
+
+#: inc/scs-plugin-options.php:228
+#: view/elementor-widgets/widgets/buttons.php:411
+msgid "Antarctica/Davis"
+msgstr ""
+
+#: inc/scs-plugin-options.php:229
+#: view/elementor-widgets/widgets/buttons.php:412
+msgid "Antarctica/DumontDUrville"
+msgstr ""
+
+#: inc/scs-plugin-options.php:230
+#: view/elementor-widgets/widgets/buttons.php:413
+msgid "Antarctica/Macquarie"
+msgstr ""
+
+#: inc/scs-plugin-options.php:231
+#: view/elementor-widgets/widgets/buttons.php:414
+msgid "Antarctica/Mawson"
+msgstr ""
+
+#: inc/scs-plugin-options.php:232
+#: view/elementor-widgets/widgets/buttons.php:415
+msgid "Antarctica/McMurdo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:233
+#: view/elementor-widgets/widgets/buttons.php:416
+msgid "Antarctica/Palmer"
+msgstr ""
+
+#: inc/scs-plugin-options.php:234
+#: view/elementor-widgets/widgets/buttons.php:417
+msgid "Antarctica/Rothera"
+msgstr ""
+
+#: inc/scs-plugin-options.php:235
+#: view/elementor-widgets/widgets/buttons.php:418
+msgid "Antarctica/South_Pole"
+msgstr ""
+
+#: inc/scs-plugin-options.php:236
+#: view/elementor-widgets/widgets/buttons.php:419
+msgid "Antarctica/Syowa"
+msgstr ""
+
+#: inc/scs-plugin-options.php:237
+#: view/elementor-widgets/widgets/buttons.php:420
+msgid "Antarctica/Troll"
+msgstr ""
+
+#: inc/scs-plugin-options.php:238
+#: view/elementor-widgets/widgets/buttons.php:421
+msgid "Antarctica/Vostok"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1062
+msgid "Appearance settings"
+msgstr ""
+
+#: inc/scs-plugin-options.php:239
+#: view/elementor-widgets/widgets/buttons.php:422
+msgid "Arctic/Longyearbyen"
+msgstr ""
+
+#: admin/fields/group/group.php:52 admin/fields/group/group.php:107
+#: admin/fields/repeater/repeater.php:48 admin/fields/repeater/repeater.php:76
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:503
+#: admin/classes/admin-options.class.php:617
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:504
+#: admin/classes/admin-options.class.php:618
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr ""
+
+#: admin/classes/setup.class.php:607
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/scs-plugin-options.php:240
+#: view/elementor-widgets/widgets/buttons.php:423
+msgid "Asia/Aden"
+msgstr ""
+
+#: inc/scs-plugin-options.php:241
+#: view/elementor-widgets/widgets/buttons.php:424
+msgid "Asia/Almaty"
+msgstr ""
+
+#: inc/scs-plugin-options.php:242
+#: view/elementor-widgets/widgets/buttons.php:425
+msgid "Asia/Amman"
+msgstr ""
+
+#: inc/scs-plugin-options.php:243
+#: view/elementor-widgets/widgets/buttons.php:426
+msgid "Asia/Anadyr"
+msgstr ""
+
+#: inc/scs-plugin-options.php:244
+#: view/elementor-widgets/widgets/buttons.php:427
+msgid "Asia/Aqtau"
+msgstr ""
+
+#: inc/scs-plugin-options.php:245
+#: view/elementor-widgets/widgets/buttons.php:428
+msgid "Asia/Aqtobe"
+msgstr ""
+
+#: inc/scs-plugin-options.php:246
+#: view/elementor-widgets/widgets/buttons.php:429
+msgid "Asia/Ashgabat"
+msgstr ""
+
+#: inc/scs-plugin-options.php:247
+#: view/elementor-widgets/widgets/buttons.php:430
+msgid "Asia/Ashkhabad"
+msgstr ""
+
+#: inc/scs-plugin-options.php:248
+#: view/elementor-widgets/widgets/buttons.php:431
+msgid "Asia/Atyrau"
+msgstr ""
+
+#: inc/scs-plugin-options.php:249
+#: view/elementor-widgets/widgets/buttons.php:432
+msgid "Asia/Baghdad"
+msgstr ""
+
+#: inc/scs-plugin-options.php:250
+#: view/elementor-widgets/widgets/buttons.php:433
+msgid "Asia/Bahrain"
+msgstr ""
+
+#: inc/scs-plugin-options.php:251
+#: view/elementor-widgets/widgets/buttons.php:434
+msgid "Asia/Baku"
+msgstr ""
+
+#: inc/scs-plugin-options.php:252
+#: view/elementor-widgets/widgets/buttons.php:435
+msgid "Asia/Bangkok"
+msgstr ""
+
+#: inc/scs-plugin-options.php:253
+#: view/elementor-widgets/widgets/buttons.php:436
+msgid "Asia/Barnaul"
+msgstr ""
+
+#: inc/scs-plugin-options.php:254
+#: view/elementor-widgets/widgets/buttons.php:437
+msgid "Asia/Beirut"
+msgstr ""
+
+#: inc/scs-plugin-options.php:255
+#: view/elementor-widgets/widgets/buttons.php:438
+msgid "Asia/Bishkek"
+msgstr ""
+
+#: inc/scs-plugin-options.php:353
+#: view/elementor-widgets/widgets/buttons.php:536
+msgid "Asia/Broken_Hill"
+msgstr ""
+
+#: inc/scs-plugin-options.php:256
+#: view/elementor-widgets/widgets/buttons.php:439
+msgid "Asia/Brunei"
+msgstr ""
+
+#: inc/scs-plugin-options.php:257
+#: view/elementor-widgets/widgets/buttons.php:440
+msgid "Asia/Calcutta"
+msgstr ""
+
+#: inc/scs-plugin-options.php:258
+#: view/elementor-widgets/widgets/buttons.php:441
+msgid "Asia/Chita"
+msgstr ""
+
+#: inc/scs-plugin-options.php:259
+#: view/elementor-widgets/widgets/buttons.php:442
+msgid "Asia/Choibalsan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:260
+#: view/elementor-widgets/widgets/buttons.php:443
+msgid "Asia/Chongqing"
+msgstr ""
+
+#: inc/scs-plugin-options.php:261
+#: view/elementor-widgets/widgets/buttons.php:444
+msgid "Asia/Chungking"
+msgstr ""
+
+#: inc/scs-plugin-options.php:262
+#: view/elementor-widgets/widgets/buttons.php:445
+msgid "Asia/Colombo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:263
+#: view/elementor-widgets/widgets/buttons.php:446
+msgid "Asia/Dacca"
+msgstr ""
+
+#: inc/scs-plugin-options.php:264
+#: view/elementor-widgets/widgets/buttons.php:447
+msgid "Asia/Damascus"
+msgstr ""
+
+#: inc/scs-plugin-options.php:265
+#: view/elementor-widgets/widgets/buttons.php:448
+msgid "Asia/Dhaka"
+msgstr ""
+
+#: inc/scs-plugin-options.php:266
+#: view/elementor-widgets/widgets/buttons.php:449
+msgid "Asia/Dili"
+msgstr ""
+
+#: inc/scs-plugin-options.php:267
+#: view/elementor-widgets/widgets/buttons.php:450
+msgid "Asia/Dubai"
+msgstr ""
+
+#: inc/scs-plugin-options.php:268
+#: view/elementor-widgets/widgets/buttons.php:451
+msgid "Asia/Dushanbe"
+msgstr ""
+
+#: inc/scs-plugin-options.php:269
+#: view/elementor-widgets/widgets/buttons.php:452
+msgid "Asia/Famagusta"
+msgstr ""
+
+#: inc/scs-plugin-options.php:270
+#: view/elementor-widgets/widgets/buttons.php:453
+msgid "Asia/Gaza"
+msgstr ""
+
+#: inc/scs-plugin-options.php:271
+#: view/elementor-widgets/widgets/buttons.php:454
+msgid "Asia/Harbin"
+msgstr ""
+
+#: inc/scs-plugin-options.php:272
+#: view/elementor-widgets/widgets/buttons.php:455
+msgid "Asia/Hebron"
+msgstr ""
+
+#: inc/scs-plugin-options.php:273
+#: view/elementor-widgets/widgets/buttons.php:456
+msgid "Asia/Ho_Chi_Minh"
+msgstr ""
+
+#: inc/scs-plugin-options.php:274
+#: view/elementor-widgets/widgets/buttons.php:457
+msgid "Asia/Hong_Kong"
+msgstr ""
+
+#: inc/scs-plugin-options.php:275
+#: view/elementor-widgets/widgets/buttons.php:458
+msgid "Asia/Hovd"
+msgstr ""
+
+#: inc/scs-plugin-options.php:276
+#: view/elementor-widgets/widgets/buttons.php:459
+msgid "Asia/Irkutsk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:277
+#: view/elementor-widgets/widgets/buttons.php:460
+msgid "Asia/Istanbul"
+msgstr ""
+
+#: inc/scs-plugin-options.php:278
+#: view/elementor-widgets/widgets/buttons.php:461
+msgid "Asia/Jakarta"
+msgstr ""
+
+#: inc/scs-plugin-options.php:279
+#: view/elementor-widgets/widgets/buttons.php:462
+msgid "Asia/Jayapura"
+msgstr ""
+
+#: inc/scs-plugin-options.php:280
+#: view/elementor-widgets/widgets/buttons.php:463
+msgid "Asia/Jerusalem"
+msgstr ""
+
+#: inc/scs-plugin-options.php:281
+#: view/elementor-widgets/widgets/buttons.php:464
+msgid "Asia/Kabul"
+msgstr ""
+
+#: inc/scs-plugin-options.php:282
+#: view/elementor-widgets/widgets/buttons.php:465
+msgid "Asia/Kamchatka"
+msgstr ""
+
+#: inc/scs-plugin-options.php:283
+#: view/elementor-widgets/widgets/buttons.php:466
+msgid "Asia/Karachi"
+msgstr ""
+
+#: inc/scs-plugin-options.php:284
+#: view/elementor-widgets/widgets/buttons.php:467
+msgid "Asia/Kashgar"
+msgstr ""
+
+#: inc/scs-plugin-options.php:285
+#: view/elementor-widgets/widgets/buttons.php:468
+msgid "Asia/Kathmandu"
+msgstr ""
+
+#: inc/scs-plugin-options.php:286
+#: view/elementor-widgets/widgets/buttons.php:469
+msgid "Asia/Katmandu"
+msgstr ""
+
+#: inc/scs-plugin-options.php:287
+#: view/elementor-widgets/widgets/buttons.php:470
+msgid "Asia/Khandyga"
+msgstr ""
+
+#: inc/scs-plugin-options.php:288
+#: view/elementor-widgets/widgets/buttons.php:471
+msgid "Asia/Kolkata"
+msgstr ""
+
+#: inc/scs-plugin-options.php:289
+#: view/elementor-widgets/widgets/buttons.php:472
+msgid "Asia/Krasnoyarsk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:290
+#: view/elementor-widgets/widgets/buttons.php:473
+msgid "Asia/Kuala_Lumpur"
+msgstr ""
+
+#: inc/scs-plugin-options.php:291
+#: view/elementor-widgets/widgets/buttons.php:474
+msgid "Asia/Kuching"
+msgstr ""
+
+#: inc/scs-plugin-options.php:292
+#: view/elementor-widgets/widgets/buttons.php:475
+msgid "Asia/Kuwait"
+msgstr ""
+
+#: inc/scs-plugin-options.php:293
+#: view/elementor-widgets/widgets/buttons.php:476
+msgid "Asia/Macao"
+msgstr ""
+
+#: inc/scs-plugin-options.php:294
+#: view/elementor-widgets/widgets/buttons.php:477
+msgid "Asia/Macau"
+msgstr ""
+
+#: inc/scs-plugin-options.php:295
+#: view/elementor-widgets/widgets/buttons.php:478
+msgid "Asia/Magadan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:296
+#: view/elementor-widgets/widgets/buttons.php:479
+msgid "Asia/Makassar"
+msgstr ""
+
+#: inc/scs-plugin-options.php:297
+#: view/elementor-widgets/widgets/buttons.php:480
+msgid "Asia/Manila"
+msgstr ""
+
+#: inc/scs-plugin-options.php:298
+#: view/elementor-widgets/widgets/buttons.php:481
+msgid "Asia/Muscat"
+msgstr ""
+
+#: inc/scs-plugin-options.php:299
+#: view/elementor-widgets/widgets/buttons.php:482
+msgid "Asia/Nicosia"
+msgstr ""
+
+#: inc/scs-plugin-options.php:300
+#: view/elementor-widgets/widgets/buttons.php:483
+msgid "Asia/Novokuznetsk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:301
+#: view/elementor-widgets/widgets/buttons.php:484
+msgid "Asia/Novosibirsk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:302
+#: view/elementor-widgets/widgets/buttons.php:485
+msgid "Asia/Omsk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:303
+#: view/elementor-widgets/widgets/buttons.php:486
+msgid "Asia/Oral"
+msgstr ""
+
+#: inc/scs-plugin-options.php:304
+#: view/elementor-widgets/widgets/buttons.php:487
+msgid "Asia/Phnom_Penh"
+msgstr ""
+
+#: inc/scs-plugin-options.php:305
+#: view/elementor-widgets/widgets/buttons.php:488
+msgid "Asia/Pontianak"
+msgstr ""
+
+#: inc/scs-plugin-options.php:306
+#: view/elementor-widgets/widgets/buttons.php:489
+msgid "Asia/Pyongyang"
+msgstr ""
+
+#: inc/scs-plugin-options.php:307
+#: view/elementor-widgets/widgets/buttons.php:490
+msgid "Asia/Qatar"
+msgstr ""
+
+#: inc/scs-plugin-options.php:308
+#: view/elementor-widgets/widgets/buttons.php:491
+msgid "Asia/Qyzylorda"
+msgstr ""
+
+#: inc/scs-plugin-options.php:309
+#: view/elementor-widgets/widgets/buttons.php:492
+msgid "Asia/Rangoon"
+msgstr ""
+
+#: inc/scs-plugin-options.php:310
+#: view/elementor-widgets/widgets/buttons.php:493
+msgid "Asia/Riyadh"
+msgstr ""
+
+#: inc/scs-plugin-options.php:311
+#: view/elementor-widgets/widgets/buttons.php:494
+msgid "Asia/Saigon"
+msgstr ""
+
+#: inc/scs-plugin-options.php:312
+#: view/elementor-widgets/widgets/buttons.php:495
+msgid "Asia/Sakhalin"
+msgstr ""
+
+#: inc/scs-plugin-options.php:313
+#: view/elementor-widgets/widgets/buttons.php:496
+msgid "Asia/Samarkand"
+msgstr ""
+
+#: inc/scs-plugin-options.php:314
+#: view/elementor-widgets/widgets/buttons.php:497
+msgid "Asia/Seoul"
+msgstr ""
+
+#: inc/scs-plugin-options.php:315
+#: view/elementor-widgets/widgets/buttons.php:498
+msgid "Asia/Shanghai"
+msgstr ""
+
+#: inc/scs-plugin-options.php:316
+#: view/elementor-widgets/widgets/buttons.php:499
+msgid "Asia/Singapore"
+msgstr ""
+
+#: inc/scs-plugin-options.php:317
+#: view/elementor-widgets/widgets/buttons.php:500
+msgid "Asia/Srednekolymsk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:318
+#: view/elementor-widgets/widgets/buttons.php:501
+msgid "Asia/Taipei"
+msgstr ""
+
+#: inc/scs-plugin-options.php:319
+#: view/elementor-widgets/widgets/buttons.php:502
+msgid "Asia/Tashkent"
+msgstr ""
+
+#: inc/scs-plugin-options.php:320
+#: view/elementor-widgets/widgets/buttons.php:503
+msgid "Asia/Tbilisi"
+msgstr ""
+
+#: inc/scs-plugin-options.php:321
+#: view/elementor-widgets/widgets/buttons.php:504
+msgid "Asia/Tehran"
+msgstr ""
+
+#: inc/scs-plugin-options.php:322
+#: view/elementor-widgets/widgets/buttons.php:505
+msgid "Asia/Tel_Aviv"
+msgstr ""
+
+#: inc/scs-plugin-options.php:323
+#: view/elementor-widgets/widgets/buttons.php:506
+msgid "Asia/Thimbu"
+msgstr ""
+
+#: inc/scs-plugin-options.php:324
+#: view/elementor-widgets/widgets/buttons.php:507
+msgid "Asia/Thimphu"
+msgstr ""
+
+#: inc/scs-plugin-options.php:325
+#: view/elementor-widgets/widgets/buttons.php:508
+msgid "Asia/Tokyo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:326
+#: view/elementor-widgets/widgets/buttons.php:509
+msgid "Asia/Tomsk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:327
+#: view/elementor-widgets/widgets/buttons.php:510
+msgid "Asia/Ujung_Pandang"
+msgstr ""
+
+#: inc/scs-plugin-options.php:328
+#: view/elementor-widgets/widgets/buttons.php:511
+msgid "Asia/Ulaanbaatar"
+msgstr ""
+
+#: inc/scs-plugin-options.php:329
+#: view/elementor-widgets/widgets/buttons.php:512
+msgid "Asia/Ulan_Bator"
+msgstr ""
+
+#: inc/scs-plugin-options.php:330
+#: view/elementor-widgets/widgets/buttons.php:513
+msgid "Asia/Urumqi"
+msgstr ""
+
+#: inc/scs-plugin-options.php:331
+#: view/elementor-widgets/widgets/buttons.php:514
+msgid "Asia/Ust-Nera"
+msgstr ""
+
+#: inc/scs-plugin-options.php:332
+#: view/elementor-widgets/widgets/buttons.php:515
+msgid "Asia/Vientiane"
+msgstr ""
+
+#: inc/scs-plugin-options.php:333
+#: view/elementor-widgets/widgets/buttons.php:516
+msgid "Asia/Vladivostok"
+msgstr ""
+
+#: inc/scs-plugin-options.php:334
+#: view/elementor-widgets/widgets/buttons.php:517
+msgid "Asia/Yakutsk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:335
+#: view/elementor-widgets/widgets/buttons.php:518
+msgid "Asia/Yangon"
+msgstr ""
+
+#: inc/scs-plugin-options.php:336
+#: view/elementor-widgets/widgets/buttons.php:519
+msgid "Asia/Yekaterinburg"
+msgstr ""
+
+#: inc/scs-plugin-options.php:337
+#: view/elementor-widgets/widgets/buttons.php:520
+msgid "Asia/Yerevan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:338
+#: view/elementor-widgets/widgets/buttons.php:521
+msgid "Atlantic/Azores"
+msgstr ""
+
+#: inc/scs-plugin-options.php:339
+#: view/elementor-widgets/widgets/buttons.php:522
+msgid "Atlantic/Bermuda"
+msgstr ""
+
+#: inc/scs-plugin-options.php:340
+#: view/elementor-widgets/widgets/buttons.php:523
+msgid "Atlantic/Canary"
+msgstr ""
+
+#: inc/scs-plugin-options.php:341
+#: view/elementor-widgets/widgets/buttons.php:524
+msgid "Atlantic/Cape_Verde"
+msgstr ""
+
+#: inc/scs-plugin-options.php:342
+#: view/elementor-widgets/widgets/buttons.php:525
+msgid "Atlantic/Faeroe"
+msgstr ""
+
+#: inc/scs-plugin-options.php:343
+#: view/elementor-widgets/widgets/buttons.php:526
+msgid "Atlantic/Faroe"
+msgstr ""
+
+#: inc/scs-plugin-options.php:344
+#: view/elementor-widgets/widgets/buttons.php:527
+msgid "Atlantic/Jan_Mayen"
+msgstr ""
+
+#: inc/scs-plugin-options.php:345
+#: view/elementor-widgets/widgets/buttons.php:528
+msgid "Atlantic/Madeira"
+msgstr ""
+
+#: inc/scs-plugin-options.php:346
+#: view/elementor-widgets/widgets/buttons.php:529
+msgid "Atlantic/Reykjavik"
+msgstr ""
+
+#: inc/scs-plugin-options.php:347
+#: view/elementor-widgets/widgets/buttons.php:530
+msgid "Atlantic/South_Georgia"
+msgstr ""
+
+#: inc/scs-plugin-options.php:348
+#: view/elementor-widgets/widgets/buttons.php:531
+msgid "Atlantic/St_Helena"
+msgstr ""
+
+#: inc/scs-plugin-options.php:349
+#: view/elementor-widgets/widgets/buttons.php:532
+msgid "Atlantic/Stanley"
+msgstr ""
+
+#: inc/scs-plugin-options.php:350
+#: view/elementor-widgets/widgets/buttons.php:533
+msgid "Australia/ACT"
+msgstr ""
+
+#: inc/scs-plugin-options.php:351
+#: view/elementor-widgets/widgets/buttons.php:534
+msgid "Australia/Adelaide"
+msgstr ""
+
+#: inc/scs-plugin-options.php:352
+#: view/elementor-widgets/widgets/buttons.php:535
+msgid "Australia/Brisbane"
+msgstr ""
+
+#: inc/scs-plugin-options.php:354
+#: view/elementor-widgets/widgets/buttons.php:537
+msgid "Australia/Canberra"
+msgstr ""
+
+#: inc/scs-plugin-options.php:355
+#: view/elementor-widgets/widgets/buttons.php:538
+msgid "Australia/Currie"
+msgstr ""
+
+#: inc/scs-plugin-options.php:356
+#: view/elementor-widgets/widgets/buttons.php:539
+msgid "Australia/Darwin"
+msgstr ""
+
+#: inc/scs-plugin-options.php:357
+#: view/elementor-widgets/widgets/buttons.php:540
+msgid "Australia/Eucla"
+msgstr ""
+
+#: inc/scs-plugin-options.php:358
+#: view/elementor-widgets/widgets/buttons.php:541
+msgid "Australia/Hobart"
+msgstr ""
+
+#: inc/scs-plugin-options.php:359
+#: view/elementor-widgets/widgets/buttons.php:542
+msgid "Australia/LHI"
+msgstr ""
+
+#: inc/scs-plugin-options.php:360
+#: view/elementor-widgets/widgets/buttons.php:543
+msgid "Australia/Lindeman"
+msgstr ""
+
+#: inc/scs-plugin-options.php:361
+#: view/elementor-widgets/widgets/buttons.php:544
+msgid "Australia/Lord_Howe"
+msgstr ""
+
+#: inc/scs-plugin-options.php:362
+#: view/elementor-widgets/widgets/buttons.php:545
+msgid "Australia/Melbourne"
+msgstr ""
+
+#: inc/scs-plugin-options.php:364
+#: view/elementor-widgets/widgets/buttons.php:547
+msgid "Australia/North"
+msgstr ""
+
+#: inc/scs-plugin-options.php:363
+#: view/elementor-widgets/widgets/buttons.php:546
+msgid "Australia/NSW"
+msgstr ""
+
+#: inc/scs-plugin-options.php:365
+#: view/elementor-widgets/widgets/buttons.php:548
+msgid "Australia/Perth"
+msgstr ""
+
+#: inc/scs-plugin-options.php:366
+#: view/elementor-widgets/widgets/buttons.php:549
+msgid "Australia/Queensland"
+msgstr ""
+
+#: inc/scs-plugin-options.php:367
+#: view/elementor-widgets/widgets/buttons.php:550
+msgid "Australia/South"
+msgstr ""
+
+#: inc/scs-plugin-options.php:368
+#: view/elementor-widgets/widgets/buttons.php:551
+msgid "Australia/Sydney"
+msgstr ""
+
+#: inc/scs-plugin-options.php:369
+#: view/elementor-widgets/widgets/buttons.php:552
+msgid "Australia/Tasmania"
+msgstr ""
+
+#: inc/scs-plugin-options.php:370
+#: view/elementor-widgets/widgets/buttons.php:553
+msgid "Australia/Victoria"
+msgstr ""
+
+#: inc/scs-plugin-options.php:371
+#: view/elementor-widgets/widgets/buttons.php:554
+msgid "Australia/West"
+msgstr ""
+
+#: inc/scs-plugin-options.php:372
+#: view/elementor-widgets/widgets/buttons.php:555
+msgid "Australia/Yancowinna"
+msgstr ""
+
+#: admin/fields/background/background.php:221
+msgid "Auto"
+msgstr ""
+
+#: inc/scs-plugin-options.php:847
+msgid "Auto open popup"
+msgstr ""
+
+#: inc/scs-plugin-options.php:648
+msgid "Availablity"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1103
+msgid "Backgound color"
+msgstr ""
+
+#: admin/fields/background/background.php:202
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/fields/background/background.php:269
+msgid "Background Blend Mode"
+msgstr ""
+
+#: admin/fields/background/background.php:252
+msgid "Background Clip"
+msgstr ""
+
+#: admin/fields/background/background.php:235
+msgid "Background Origin"
+msgstr ""
+
+#: admin/fields/background/background.php:161
+msgid "Background Position"
+msgstr ""
+
+#: admin/fields/background/background.php:184
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/fields/background/background.php:218
+msgid "Background Size"
+msgstr ""
+
+#: inc/scs-plugin-options.php:1043
+msgid "Backup"
+msgstr ""
+
+#: admin/fields/typography/typography.php:105
+msgid "Backup Font Family"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:74
+msgid "Basic button"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1153
+#: view/elementor-widgets/widgets/buttons.php:1157
+msgid "Border"
+msgstr ""
+
+#: admin/fields/background/background.php:237
+#: admin/fields/background/background.php:253
+msgid "Border Box"
+msgstr ""
+
+#: admin/fields/border/border.php:27 admin/fields/spacing/spacing.php:32
+msgid "bottom"
+msgstr ""
+
+#: inc/scs-plugin-options.php:373
+#: view/elementor-widgets/widgets/buttons.php:556
+msgid "Brazil/Acre"
+msgstr ""
+
+#: inc/scs-plugin-options.php:374
+#: view/elementor-widgets/widgets/buttons.php:557
+msgid "Brazil/DeNoronha"
+msgstr ""
+
+#: inc/scs-plugin-options.php:375
+#: view/elementor-widgets/widgets/buttons.php:558
+msgid "Brazil/East"
+msgstr ""
+
+#: inc/scs-plugin-options.php:376
+#: view/elementor-widgets/widgets/buttons.php:559
+msgid "Brazil/West"
+msgstr ""
+
+#: inc/scs-plugin-options.php:934
+msgid "Bubble button style"
+msgstr ""
+
+#: inc/scs-plugin-options.php:895
+msgid "Bubble header contnet position"
+msgstr ""
+
+#: inc/scs-plugin-options.php:856
+msgid "Bubble position"
+msgstr ""
+
+#: inc/scs-plugin-options.php:986
+msgid "Bubble text"
+msgstr ""
+
+#: inc/scs-plugin-options.php:867
+msgid "Bubble visibility"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:127
+msgid "Button label"
+msgstr ""
+
+#: inc/scs-plugin-options.php:999
+msgid "Buttons shortcodes"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Can easily create Bubble & buttons for chat skype in any WordPress site. "
+"Elementor and shortcodes supported."
+msgstr ""
+
+#: inc/scs-plugin-options.php:379
+#: view/elementor-widgets/widgets/buttons.php:562
+msgid "Canada/Atlantic"
+msgstr ""
+
+#: inc/scs-plugin-options.php:380
+#: view/elementor-widgets/widgets/buttons.php:563
+msgid "Canada/Central"
+msgstr ""
+
+#: inc/scs-plugin-options.php:381
+#: view/elementor-widgets/widgets/buttons.php:564
+msgid "Canada/Eastern"
+msgstr ""
+
+#: inc/scs-plugin-options.php:382
+#: view/elementor-widgets/widgets/buttons.php:565
+msgid "Canada/Mountain"
+msgstr ""
+
+#: inc/scs-plugin-options.php:383
+#: view/elementor-widgets/widgets/buttons.php:566
+msgid "Canada/Newfoundland"
+msgstr ""
+
+#: inc/scs-plugin-options.php:384
+#: view/elementor-widgets/widgets/buttons.php:567
+msgid "Canada/Pacific"
+msgstr ""
+
+#: inc/scs-plugin-options.php:385
+#: view/elementor-widgets/widgets/buttons.php:568
+msgid "Canada/Saskatchewan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:386
+#: view/elementor-widgets/widgets/buttons.php:569
+msgid "Canada/Yukon"
+msgstr ""
+
+#: admin/fields/typography/typography.php:200
+msgid "Capitalize"
+msgstr ""
+
+#: inc/scs-plugin-options.php:899 admin/fields/typography/typography.php:172
+#: view/elementor-widgets/widgets/buttons.php:1328
+msgid "Center"
+msgstr ""
+
+#: admin/fields/background/background.php:167
+msgid "Center Bottom"
+msgstr ""
+
+#: admin/fields/background/background.php:166
+msgid "Center Center"
+msgstr ""
+
+#: admin/fields/background/background.php:165
+msgid "Center Top"
+msgstr ""
+
+#: inc/scs-plugin-options.php:377
+#: view/elementor-widgets/widgets/buttons.php:560
+msgid "CET"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1207
+msgid "Change icon"
+msgstr ""
+
+#: inc/scs-plugin-options.php:828
+msgid "Change icon for adding before send message text."
+msgstr ""
+
+#: inc/scs-plugin-options.php:964
+msgid "Change icon for circle button close."
+msgstr ""
+
+#: inc/scs-plugin-options.php:955
+msgid "Change icon for circle button."
+msgstr ""
+
+#: inc/scs-plugin-options.php:987
+msgid "Change text to show in bubble"
+msgstr ""
+
+#. Name of the plugin
+msgid "Chat for Skype"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:169
+msgid "Chat settings"
+msgstr ""
+
+#: inc/scs-plugin-options.php:603
+#: view/elementor-widgets/elementor-widget.php:236
+#: view/elementor-widgets/elementor-widget.php:255
+msgid "Chat skype"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:28
+msgid "Chat skype buttons"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:273
+msgid "Chat skype Elements"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:215
+msgid "Chat Skype WordPress Plugin"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:105
+#: view/elementor-widgets/elementor-widget.php:122
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/scs-plugin-options.php:387
+#: view/elementor-widgets/widgets/buttons.php:570
+msgid "Chile/Continental"
+msgstr ""
+
+#: inc/scs-plugin-options.php:388
+#: view/elementor-widgets/widgets/buttons.php:571
+msgid "Chile/EasterIsland"
+msgstr ""
+
+#: admin/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: admin/fields/background/background.php:278
+msgid "Color"
+msgstr ""
+
+#: admin/fields/background/background.php:276
+msgid "Color Dodge"
+msgstr ""
+
+#: admin/fields/background/background.php:220
+msgid "Contain"
+msgstr ""
+
+#: admin/fields/background/background.php:238
+#: admin/fields/background/background.php:255
+msgid "Content Box"
+msgstr ""
+
+#: inc/scs-plugin-options.php:1025 inc/scs-plugin-options.php:1032
+msgid ""
+"Copy this shortcode and paste it in any pages/posts/widget. Edit values as "
+"you need."
+msgstr ""
+
+#: admin/fields/background/background.php:219
+msgid "Cover"
+msgstr ""
+
+#: inc/scs-plugin-options.php:378
+#: view/elementor-widgets/widgets/buttons.php:561
+msgid "CST6CDT"
+msgstr ""
+
+#: inc/scs-plugin-options.php:389
+#: view/elementor-widgets/widgets/buttons.php:572
+msgid "Cuba"
+msgstr ""
+
+#: admin/fields/typography/typography.php:295
+msgid "Custom Style"
+msgstr ""
+
+#: admin/fields/typography/typography.php:362
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: inc/scs-plugin-options.php:886
+msgid "Dark mode"
+msgstr ""
+
+#: admin/fields/background/background.php:274
+msgid "Darken"
+msgstr ""
+
+#: admin/fields/border/border.php:52 admin/fields/typography/typography.php:217
+msgid "Dashed"
+msgstr ""
+
+#: admin/fields/typography/typography.php:119
+#: admin/fields/typography/typography.php:132
+#: admin/fields/typography/typography.php:145
+#: admin/fields/typography/typography.php:160
+#: admin/fields/typography/typography.php:176
+#: admin/fields/typography/typography.php:189
+#: admin/fields/typography/typography.php:203
+#: admin/fields/typography/typography.php:221
+msgid "Default"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:244
+#: admin/classes/admin-options.class.php:258
+msgid "Default settings restored."
+msgstr ""
+
+#: inc/scs-plugin-options.php:871
+msgid "Desktop Only"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1076
+msgid "Desktops only"
+msgstr ""
+
+#: admin/fields/background/background.php:108
+msgid "Direction"
+msgstr ""
+
+#: admin/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: admin/fields/border/border.php:53 admin/fields/typography/typography.php:216
+msgid "Dotted"
+msgstr ""
+
+#: admin/fields/border/border.php:54 admin/fields/typography/typography.php:215
+msgid "Double"
+msgstr ""
+
+#: inc/scs-plugin-options.php:919
+msgid "Ease Down"
+msgstr ""
+
+#: admin/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/fields/link/link.php:21
+msgid "Edit Link"
+msgstr ""
+
+#: inc/scs-plugin-options.php:390
+#: view/elementor-widgets/widgets/buttons.php:573
+msgid "EET"
+msgstr ""
+
+#: inc/scs-plugin-options.php:393
+#: view/elementor-widgets/widgets/buttons.php:576
+msgid "Egypt"
+msgstr ""
+
+#: inc/scs-plugin-options.php:394
+#: view/elementor-widgets/widgets/buttons.php:577
+msgid "Eire"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:216
+#: view/elementor-widgets/elementor-widget.php:237
+msgid "Elementor"
+msgstr ""
+
+#: admin/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:813
+#: view/elementor-widgets/widgets/buttons.php:852
+#: view/elementor-widgets/widgets/buttons.php:891
+#: view/elementor-widgets/widgets/buttons.php:930
+#: view/elementor-widgets/widgets/buttons.php:969
+#: view/elementor-widgets/widgets/buttons.php:1008
+#: view/elementor-widgets/widgets/buttons.php:1046
+msgid "End time"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:173
+msgid "Error while saving the changes."
+msgstr ""
+
+#: admin/fields/group/group.php:41 admin/fields/repeater/repeater.php:27
+msgid "Error: Field ID conflict."
+msgstr ""
+
+#: admin/functions/actions.php:72 admin/functions/actions.php:110
+msgid "Error: Invalid key."
+msgstr ""
+
+#: admin/functions/actions.php:16 admin/functions/actions.php:68
+#: admin/functions/actions.php:106 admin/functions/actions.php:141
+#: admin/functions/actions.php:170
+msgid "Error: Invalid nonce verification."
+msgstr ""
+
+#: admin/functions/actions.php:174
+msgid "Error: Invalid term ID."
+msgstr ""
+
+#: admin/functions/actions.php:114
+msgid "Error: The response is not a valid JSON response."
+msgstr ""
+
+#: admin/functions/actions.php:180
+msgid "Error: You do not have permission to do that."
+msgstr ""
+
+#: inc/scs-plugin-options.php:391
+#: view/elementor-widgets/widgets/buttons.php:574
+msgid "EST"
+msgstr ""
+
+#: inc/scs-plugin-options.php:392
+#: view/elementor-widgets/widgets/buttons.php:575
+msgid "EST5EDT"
+msgstr ""
+
+#: inc/scs-plugin-options.php:395
+#: view/elementor-widgets/widgets/buttons.php:578
+msgid "Etc/GMT"
+msgstr ""
+
+#: inc/scs-plugin-options.php:396
+#: view/elementor-widgets/widgets/buttons.php:579
+msgid "Etc/GMT+0"
+msgstr ""
+
+#: inc/scs-plugin-options.php:397
+#: view/elementor-widgets/widgets/buttons.php:580
+msgid "Etc/GMT+1"
+msgstr ""
+
+#: inc/scs-plugin-options.php:398
+#: view/elementor-widgets/widgets/buttons.php:581
+msgid "Etc/GMT+10"
+msgstr ""
+
+#: inc/scs-plugin-options.php:399
+#: view/elementor-widgets/widgets/buttons.php:582
+msgid "Etc/GMT+11"
+msgstr ""
+
+#: inc/scs-plugin-options.php:400
+#: view/elementor-widgets/widgets/buttons.php:583
+msgid "Etc/GMT+12"
+msgstr ""
+
+#: inc/scs-plugin-options.php:401
+#: view/elementor-widgets/widgets/buttons.php:584
+msgid "Etc/GMT+2"
+msgstr ""
+
+#: inc/scs-plugin-options.php:402
+#: view/elementor-widgets/widgets/buttons.php:585
+msgid "Etc/GMT+3"
+msgstr ""
+
+#: inc/scs-plugin-options.php:403
+#: view/elementor-widgets/widgets/buttons.php:586
+msgid "Etc/GMT+4"
+msgstr ""
+
+#: inc/scs-plugin-options.php:404
+#: view/elementor-widgets/widgets/buttons.php:587
+msgid "Etc/GMT+5"
+msgstr ""
+
+#: inc/scs-plugin-options.php:405
+#: view/elementor-widgets/widgets/buttons.php:588
+msgid "Etc/GMT+6"
+msgstr ""
+
+#: inc/scs-plugin-options.php:406
+#: view/elementor-widgets/widgets/buttons.php:589
+msgid "Etc/GMT+7"
+msgstr ""
+
+#: inc/scs-plugin-options.php:407
+#: view/elementor-widgets/widgets/buttons.php:590
+msgid "Etc/GMT+8"
+msgstr ""
+
+#: inc/scs-plugin-options.php:408
+#: view/elementor-widgets/widgets/buttons.php:591
+msgid "Etc/GMT+9"
+msgstr ""
+
+#: inc/scs-plugin-options.php:409
+#: view/elementor-widgets/widgets/buttons.php:592
+msgid "Etc/GMT-0"
+msgstr ""
+
+#: inc/scs-plugin-options.php:410
+#: view/elementor-widgets/widgets/buttons.php:593
+msgid "Etc/GMT-1"
+msgstr ""
+
+#: inc/scs-plugin-options.php:411
+#: view/elementor-widgets/widgets/buttons.php:594
+msgid "Etc/GMT-10"
+msgstr ""
+
+#: inc/scs-plugin-options.php:412
+#: view/elementor-widgets/widgets/buttons.php:595
+msgid "Etc/GMT-11"
+msgstr ""
+
+#: inc/scs-plugin-options.php:413
+#: view/elementor-widgets/widgets/buttons.php:596
+msgid "Etc/GMT-12"
+msgstr ""
+
+#: inc/scs-plugin-options.php:414
+#: view/elementor-widgets/widgets/buttons.php:597
+msgid "Etc/GMT-13"
+msgstr ""
+
+#: inc/scs-plugin-options.php:415
+#: view/elementor-widgets/widgets/buttons.php:598
+msgid "Etc/GMT-14"
+msgstr ""
+
+#: inc/scs-plugin-options.php:416
+#: view/elementor-widgets/widgets/buttons.php:599
+msgid "Etc/GMT-2"
+msgstr ""
+
+#: inc/scs-plugin-options.php:417
+#: view/elementor-widgets/widgets/buttons.php:600
+msgid "Etc/GMT-3"
+msgstr ""
+
+#: inc/scs-plugin-options.php:418
+#: view/elementor-widgets/widgets/buttons.php:601
+msgid "Etc/GMT-4"
+msgstr ""
+
+#: inc/scs-plugin-options.php:419
+#: view/elementor-widgets/widgets/buttons.php:602
+msgid "Etc/GMT-5"
+msgstr ""
+
+#: inc/scs-plugin-options.php:420
+#: view/elementor-widgets/widgets/buttons.php:603
+msgid "Etc/GMT-6"
+msgstr ""
+
+#: inc/scs-plugin-options.php:421
+#: view/elementor-widgets/widgets/buttons.php:604
+msgid "Etc/GMT-7"
+msgstr ""
+
+#: inc/scs-plugin-options.php:422
+#: view/elementor-widgets/widgets/buttons.php:605
+msgid "Etc/GMT-8"
+msgstr ""
+
+#: inc/scs-plugin-options.php:423
+#: view/elementor-widgets/widgets/buttons.php:606
+msgid "Etc/GMT-9"
+msgstr ""
+
+#: inc/scs-plugin-options.php:424
+#: view/elementor-widgets/widgets/buttons.php:607
+msgid "Etc/GMT0"
+msgstr ""
+
+#: inc/scs-plugin-options.php:425
+#: view/elementor-widgets/widgets/buttons.php:608
+msgid "Etc/Greenwich"
+msgstr ""
+
+#: inc/scs-plugin-options.php:426
+#: view/elementor-widgets/widgets/buttons.php:609
+msgid "Etc/UCT"
+msgstr ""
+
+#: inc/scs-plugin-options.php:428
+#: view/elementor-widgets/widgets/buttons.php:611
+msgid "Etc/Universal"
+msgstr ""
+
+#: inc/scs-plugin-options.php:427
+#: view/elementor-widgets/widgets/buttons.php:610
+msgid "Etc/UTC"
+msgstr ""
+
+#: inc/scs-plugin-options.php:429
+#: view/elementor-widgets/widgets/buttons.php:612
+msgid "Etc/Zulu"
+msgstr ""
+
+#: inc/scs-plugin-options.php:430
+#: view/elementor-widgets/widgets/buttons.php:613
+msgid "Europe/Amsterdam"
+msgstr ""
+
+#: inc/scs-plugin-options.php:431
+#: view/elementor-widgets/widgets/buttons.php:614
+msgid "Europe/Andorra"
+msgstr ""
+
+#: inc/scs-plugin-options.php:432
+#: view/elementor-widgets/widgets/buttons.php:615
+msgid "Europe/Astrakhan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:433
+#: view/elementor-widgets/widgets/buttons.php:616
+msgid "Europe/Athens"
+msgstr ""
+
+#: inc/scs-plugin-options.php:434
+#: view/elementor-widgets/widgets/buttons.php:617
+msgid "Europe/Belfast"
+msgstr ""
+
+#: inc/scs-plugin-options.php:435
+#: view/elementor-widgets/widgets/buttons.php:618
+msgid "Europe/Belgrade"
+msgstr ""
+
+#: inc/scs-plugin-options.php:436
+#: view/elementor-widgets/widgets/buttons.php:619
+msgid "Europe/Berlin"
+msgstr ""
+
+#: inc/scs-plugin-options.php:437
+#: view/elementor-widgets/widgets/buttons.php:620
+msgid "Europe/Bratislava"
+msgstr ""
+
+#: inc/scs-plugin-options.php:438
+#: view/elementor-widgets/widgets/buttons.php:621
+msgid "Europe/Brussels"
+msgstr ""
+
+#: inc/scs-plugin-options.php:439
+#: view/elementor-widgets/widgets/buttons.php:622
+msgid "Europe/Bucharest"
+msgstr ""
+
+#: inc/scs-plugin-options.php:440
+#: view/elementor-widgets/widgets/buttons.php:623
+msgid "Europe/Budapest"
+msgstr ""
+
+#: inc/scs-plugin-options.php:441
+#: view/elementor-widgets/widgets/buttons.php:624
+msgid "Europe/Busingen"
+msgstr ""
+
+#: inc/scs-plugin-options.php:442
+#: view/elementor-widgets/widgets/buttons.php:625
+msgid "Europe/Chisinau"
+msgstr ""
+
+#: inc/scs-plugin-options.php:443
+#: view/elementor-widgets/widgets/buttons.php:626
+msgid "Europe/Copenhagen"
+msgstr ""
+
+#: inc/scs-plugin-options.php:444
+#: view/elementor-widgets/widgets/buttons.php:627
+msgid "Europe/Dublin"
+msgstr ""
+
+#: inc/scs-plugin-options.php:445
+#: view/elementor-widgets/widgets/buttons.php:628
+msgid "Europe/Gibraltar"
+msgstr ""
+
+#: inc/scs-plugin-options.php:446
+#: view/elementor-widgets/widgets/buttons.php:629
+msgid "Europe/Guernsey"
+msgstr ""
+
+#: inc/scs-plugin-options.php:447
+#: view/elementor-widgets/widgets/buttons.php:630
+msgid "Europe/Helsinki"
+msgstr ""
+
+#: inc/scs-plugin-options.php:448
+#: view/elementor-widgets/widgets/buttons.php:631
+msgid "Europe/Isle_of_Man"
+msgstr ""
+
+#: inc/scs-plugin-options.php:449
+#: view/elementor-widgets/widgets/buttons.php:632
+msgid "Europe/Istanbul"
+msgstr ""
+
+#: inc/scs-plugin-options.php:450
+#: view/elementor-widgets/widgets/buttons.php:633
+msgid "Europe/Jersey"
+msgstr ""
+
+#: inc/scs-plugin-options.php:451
+#: view/elementor-widgets/widgets/buttons.php:634
+msgid "Europe/Kaliningrad"
+msgstr ""
+
+#: inc/scs-plugin-options.php:452
+#: view/elementor-widgets/widgets/buttons.php:635
+msgid "Europe/Kiev"
+msgstr ""
+
+#: inc/scs-plugin-options.php:453
+#: view/elementor-widgets/widgets/buttons.php:636
+msgid "Europe/Kirov"
+msgstr ""
+
+#: inc/scs-plugin-options.php:454
+#: view/elementor-widgets/widgets/buttons.php:637
+msgid "Europe/Lisbon"
+msgstr ""
+
+#: inc/scs-plugin-options.php:455
+#: view/elementor-widgets/widgets/buttons.php:638
+msgid "Europe/Ljubljana"
+msgstr ""
+
+#: inc/scs-plugin-options.php:456
+#: view/elementor-widgets/widgets/buttons.php:639
+msgid "Europe/London"
+msgstr ""
+
+#: inc/scs-plugin-options.php:457
+#: view/elementor-widgets/widgets/buttons.php:640
+msgid "Europe/Luxembourg"
+msgstr ""
+
+#: inc/scs-plugin-options.php:458
+#: view/elementor-widgets/widgets/buttons.php:641
+msgid "Europe/Madrid"
+msgstr ""
+
+#: inc/scs-plugin-options.php:459
+#: view/elementor-widgets/widgets/buttons.php:642
+msgid "Europe/Malta"
+msgstr ""
+
+#: inc/scs-plugin-options.php:460
+#: view/elementor-widgets/widgets/buttons.php:643
+msgid "Europe/Mariehamn"
+msgstr ""
+
+#: inc/scs-plugin-options.php:461
+#: view/elementor-widgets/widgets/buttons.php:644
+msgid "Europe/Minsk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:462
+#: view/elementor-widgets/widgets/buttons.php:645
+msgid "Europe/Monaco"
+msgstr ""
+
+#: inc/scs-plugin-options.php:463
+#: view/elementor-widgets/widgets/buttons.php:646
+msgid "Europe/Moscow"
+msgstr ""
+
+#: inc/scs-plugin-options.php:464
+#: view/elementor-widgets/widgets/buttons.php:647
+msgid "Europe/Nicosia"
+msgstr ""
+
+#: inc/scs-plugin-options.php:465
+#: view/elementor-widgets/widgets/buttons.php:648
+msgid "Europe/Oslo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:466
+#: view/elementor-widgets/widgets/buttons.php:649
+msgid "Europe/Paris"
+msgstr ""
+
+#: inc/scs-plugin-options.php:467
+#: view/elementor-widgets/widgets/buttons.php:650
+msgid "Europe/Podgorica"
+msgstr ""
+
+#: inc/scs-plugin-options.php:468
+#: view/elementor-widgets/widgets/buttons.php:651
+msgid "Europe/Prague"
+msgstr ""
+
+#: inc/scs-plugin-options.php:469
+#: view/elementor-widgets/widgets/buttons.php:652
+msgid "Europe/Riga"
+msgstr ""
+
+#: inc/scs-plugin-options.php:470
+#: view/elementor-widgets/widgets/buttons.php:653
+msgid "Europe/Rome"
+msgstr ""
+
+#: inc/scs-plugin-options.php:471
+#: view/elementor-widgets/widgets/buttons.php:654
+msgid "Europe/Samara"
+msgstr ""
+
+#: inc/scs-plugin-options.php:472
+#: view/elementor-widgets/widgets/buttons.php:655
+msgid "Europe/San_Marino"
+msgstr ""
+
+#: inc/scs-plugin-options.php:473
+#: view/elementor-widgets/widgets/buttons.php:656
+msgid "Europe/Sarajevo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:474
+#: view/elementor-widgets/widgets/buttons.php:657
+msgid "Europe/Saratov"
+msgstr ""
+
+#: inc/scs-plugin-options.php:475
+#: view/elementor-widgets/widgets/buttons.php:658
+msgid "Europe/Simferopol"
+msgstr ""
+
+#: inc/scs-plugin-options.php:476
+#: view/elementor-widgets/widgets/buttons.php:659
+msgid "Europe/Skopje"
+msgstr ""
+
+#: inc/scs-plugin-options.php:477
+#: view/elementor-widgets/widgets/buttons.php:660
+msgid "Europe/Sofia"
+msgstr ""
+
+#: inc/scs-plugin-options.php:478
+#: view/elementor-widgets/widgets/buttons.php:661
+msgid "Europe/Stockholm"
+msgstr ""
+
+#: inc/scs-plugin-options.php:479
+#: view/elementor-widgets/widgets/buttons.php:662
+msgid "Europe/Tallinn"
+msgstr ""
+
+#: inc/scs-plugin-options.php:480
+#: view/elementor-widgets/widgets/buttons.php:663
+msgid "Europe/Tirane"
+msgstr ""
+
+#: inc/scs-plugin-options.php:481
+#: view/elementor-widgets/widgets/buttons.php:664
+msgid "Europe/Tiraspol"
+msgstr ""
+
+#: inc/scs-plugin-options.php:482
+#: view/elementor-widgets/widgets/buttons.php:665
+msgid "Europe/Ulyanovsk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:483
+#: view/elementor-widgets/widgets/buttons.php:666
+msgid "Europe/Uzhgorod"
+msgstr ""
+
+#: inc/scs-plugin-options.php:484
+#: view/elementor-widgets/widgets/buttons.php:667
+msgid "Europe/Vaduz"
+msgstr ""
+
+#: inc/scs-plugin-options.php:485
+#: view/elementor-widgets/widgets/buttons.php:668
+msgid "Europe/Vatican"
+msgstr ""
+
+#: inc/scs-plugin-options.php:486
+#: view/elementor-widgets/widgets/buttons.php:669
+msgid "Europe/Vienna"
+msgstr ""
+
+#: inc/scs-plugin-options.php:487
+#: view/elementor-widgets/widgets/buttons.php:670
+msgid "Europe/Vilnius"
+msgstr ""
+
+#: inc/scs-plugin-options.php:488
+#: view/elementor-widgets/widgets/buttons.php:671
+msgid "Europe/Volgograd"
+msgstr ""
+
+#: inc/scs-plugin-options.php:489
+#: view/elementor-widgets/widgets/buttons.php:672
+msgid "Europe/Warsaw"
+msgstr ""
+
+#: inc/scs-plugin-options.php:490
+#: view/elementor-widgets/widgets/buttons.php:673
+msgid "Europe/Zagreb"
+msgstr ""
+
+#: inc/scs-plugin-options.php:491
+#: view/elementor-widgets/widgets/buttons.php:674
+msgid "Europe/Zaporozhye"
+msgstr ""
+
+#: inc/scs-plugin-options.php:492
+#: view/elementor-widgets/widgets/buttons.php:675
+msgid "Europe/Zurich"
+msgstr ""
+
+#: inc/scs-plugin-options.php:870
+#: view/elementor-widgets/widgets/buttons.php:1075
+msgid "Everywhere"
+msgstr ""
+
+#: admin/fields/backup/backup.php:29
+msgid "Export & Download"
+msgstr ""
+
+#: inc/scs-plugin-options.php:1045
+msgid "Export or import to use same settings in different websites."
+msgstr ""
+
+#: inc/scs-plugin-options.php:975
+msgid "Fade"
+msgstr ""
+
+#: inc/scs-plugin-options.php:914
+msgid "Fade Down"
+msgstr ""
+
+#: inc/scs-plugin-options.php:915
+msgid "Fade In Scale"
+msgstr ""
+
+#: inc/scs-plugin-options.php:913
+msgid "Fade Right"
+msgstr ""
+
+#: admin/classes/setup.class.php:774 admin/classes/setup.class.php:777
+msgid "Field not found!"
+msgstr ""
+
+#: admin/fields/background/background.php:204
+msgid "Fixed"
+msgstr ""
+
+#: inc/scs-plugin-options.php:921
+msgid "Flip Horizontal"
+msgstr ""
+
+#: inc/scs-plugin-options.php:923
+msgid "Flip Up"
+msgstr ""
+
+#: inc/scs-plugin-options.php:922
+msgid "Flip Vertical"
+msgstr ""
+
+#: admin/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr ""
+
+#: admin/fields/typography/typography.php:284
+msgid "Font Color"
+msgstr ""
+
+#: admin/fields/typography/typography.php:96
+msgid "Font Family"
+msgstr ""
+
+#: admin/fields/typography/typography.php:233
+msgid "Font Size"
+msgstr ""
+
+#: admin/fields/typography/typography.php:130
+msgid "Font Style"
+msgstr ""
+
+#: admin/fields/typography/typography.php:184
+msgid "Font Variant"
+msgstr ""
+
+#: inc/scs-plugin-options.php:741
+#: view/elementor-widgets/widgets/buttons.php:986
+msgid "Friday"
+msgstr ""
+
+#: admin/fields/background/background.php:72 admin/fields/date/date.php:36
+#: admin/fields/datetime/datetime.php:36
+msgid "From"
+msgstr ""
+
+#: inc/scs-plugin-options.php:493
+#: view/elementor-widgets/widgets/buttons.php:676
+msgid "GB"
+msgstr ""
+
+#: inc/scs-plugin-options.php:494
+#: view/elementor-widgets/widgets/buttons.php:677
+msgid "GB-Eire"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:50
+msgid "General settings"
+msgstr ""
+
+#: inc/scs-plugin-options.php:495
+#: view/elementor-widgets/widgets/buttons.php:678
+msgid "GMT"
+msgstr ""
+
+#: inc/scs-plugin-options.php:496
+#: view/elementor-widgets/widgets/buttons.php:679
+msgid "GMT+0"
+msgstr ""
+
+#: inc/scs-plugin-options.php:497
+#: view/elementor-widgets/widgets/buttons.php:680
+msgid "GMT-0"
+msgstr ""
+
+#: inc/scs-plugin-options.php:498
+#: view/elementor-widgets/widgets/buttons.php:681
+msgid "GMT0"
+msgstr ""
+
+#: admin/fields/typography/typography.php:388
+msgid "Google Web Fonts"
+msgstr ""
+
+#: admin/fields/background/background.php:114
+msgid "Gradient Direction"
+msgstr ""
+
+#: inc/scs-plugin-options.php:499
+#: view/elementor-widgets/widgets/buttons.php:682
+msgid "Greenwich"
+msgstr ""
+
+#: admin/fields/border/border.php:57
+msgid "Groove"
+msgstr ""
+
+#: admin/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: inc/scs-plugin-options.php:818
+msgid ""
+"Hello, Welcome to the site. Please click below button for chatting me "
+"through Skype."
+msgstr ""
+
+#: inc/scs-plugin-options.php:501
+#: view/elementor-widgets/widgets/buttons.php:684
+msgid "Hongkong"
+msgstr ""
+
+#: admin/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1115
+msgid "Hover backgound color"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1180
+#: view/elementor-widgets/widgets/buttons.php:1185
+msgid "Hover border"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1139
+msgid "Hover text color"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:21
+#: view/elementor-widgets/widgets/buttons.php:131
+msgid "How can I help you?"
+msgstr ""
+
+#: inc/scs-plugin-options.php:988
+msgid "How may I help you?"
+msgstr ""
+
+#: inc/scs-plugin-options.php:500
+#: view/elementor-widgets/widgets/buttons.php:683
+msgid "HST"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themeatelier.net/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpchatplugins.com/"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:22
+#: view/elementor-widgets/widgets/buttons.php:142
+msgid "I'm avaiable"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:23
+#: view/elementor-widgets/widgets/buttons.php:156
+msgid "I'm offline"
+msgstr ""
+
+#: inc/scs-plugin-options.php:502
+#: view/elementor-widgets/widgets/buttons.php:685
+msgid "Iceland"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1277
+msgid "Icon bg color"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1233
+msgid "Icon color"
+msgstr ""
+
+#: inc/scs-plugin-options.php:953
+msgid "Icon for circle button"
+msgstr ""
+
+#: inc/scs-plugin-options.php:962
+msgid "Icon for circle button close "
+msgstr ""
+
+#: inc/scs-plugin-options.php:826
+msgid "Icon for message button"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1293
+msgid "Icon hover bg color"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1248
+msgid "Icon hover color"
+msgstr ""
+
+#: admin/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: inc/scs-plugin-options.php:503
+#: view/elementor-widgets/widgets/buttons.php:686
+msgid "Indian/Antananarivo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:504
+#: view/elementor-widgets/widgets/buttons.php:687
+msgid "Indian/Chagos"
+msgstr ""
+
+#: inc/scs-plugin-options.php:505
+#: view/elementor-widgets/widgets/buttons.php:688
+msgid "Indian/Christmas"
+msgstr ""
+
+#: inc/scs-plugin-options.php:506
+#: view/elementor-widgets/widgets/buttons.php:689
+msgid "Indian/Cocos"
+msgstr ""
+
+#: inc/scs-plugin-options.php:507
+#: view/elementor-widgets/widgets/buttons.php:690
+msgid "Indian/Comoro"
+msgstr ""
+
+#: inc/scs-plugin-options.php:508
+#: view/elementor-widgets/widgets/buttons.php:691
+msgid "Indian/Kerguelen"
+msgstr ""
+
+#: inc/scs-plugin-options.php:509
+#: view/elementor-widgets/widgets/buttons.php:692
+msgid "Indian/Mahe"
+msgstr ""
+
+#: inc/scs-plugin-options.php:510
+#: view/elementor-widgets/widgets/buttons.php:693
+msgid "Indian/Maldives"
+msgstr ""
+
+#: inc/scs-plugin-options.php:511
+#: view/elementor-widgets/widgets/buttons.php:694
+msgid "Indian/Mauritius"
+msgstr ""
+
+#: inc/scs-plugin-options.php:512
+#: view/elementor-widgets/widgets/buttons.php:695
+msgid "Indian/Mayotte"
+msgstr ""
+
+#: inc/scs-plugin-options.php:513
+#: view/elementor-widgets/widgets/buttons.php:696
+msgid "Indian/Reunion"
+msgstr ""
+
+#: inc/scs-plugin-options.php:133
+#: view/elementor-widgets/widgets/buttons.php:316
+msgid "Indiana/Indianapolis"
+msgstr ""
+
+#: admin/fields/typography/typography.php:170
+msgid "Inherit"
+msgstr ""
+
+#: admin/fields/typography/typography.php:175
+msgid "Initial"
+msgstr ""
+
+#: admin/fields/border/border.php:55
+msgid "Inset"
+msgstr ""
+
+#: inc/scs-plugin-options.php:514
+#: view/elementor-widgets/widgets/buttons.php:697
+msgid "Iran"
+msgstr ""
+
+#: inc/scs-plugin-options.php:515
+#: view/elementor-widgets/widgets/buttons.php:698
+msgid "Israel"
+msgstr ""
+
+#: inc/scs-plugin-options.php:516
+#: view/elementor-widgets/widgets/buttons.php:699
+msgid "Jamaica"
+msgstr ""
+
+#: inc/scs-plugin-options.php:517
+#: view/elementor-widgets/widgets/buttons.php:700
+msgid "Japan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:798
+msgid "John Doe"
+msgstr ""
+
+#: admin/fields/typography/typography.php:174
+msgid "Justify"
+msgstr ""
+
+#: inc/scs-plugin-options.php:518
+#: view/elementor-widgets/widgets/buttons.php:701
+msgid "Kwajalein"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1095
+msgid "Large"
+msgstr ""
+
+#: admin/fields/map/map.php:23
+msgid "Latitude"
+msgstr ""
+
+#: inc/scs-plugin-options.php:860 inc/scs-plugin-options.php:898
+#: admin/fields/typography/typography.php:171
+#: view/elementor-widgets/widgets/buttons.php:1324
+msgid "Left"
+msgstr ""
+
+#: admin/fields/border/border.php:28 admin/fields/spacing/spacing.php:33
+msgid "left"
+msgstr ""
+
+#: admin/fields/background/background.php:164
+msgid "Left Bottom"
+msgstr ""
+
+#: admin/fields/background/background.php:163
+msgid "Left Center"
+msgstr ""
+
+#: admin/fields/background/background.php:162
+msgid "Left Top"
+msgstr ""
+
+#: admin/fields/typography/typography.php:257
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/scs-plugin-options.php:519
+#: view/elementor-widgets/widgets/buttons.php:702
+msgid "Libya"
+msgstr ""
+
+#: inc/scs-plugin-options.php:885
+msgid "Light mode"
+msgstr ""
+
+#: admin/fields/background/background.php:275
+msgid "Lighten"
+msgstr ""
+
+#: admin/fields/typography/typography.php:245
+msgid "Line Height"
+msgstr ""
+
+#: admin/fields/typography/typography.php:220
+msgid "Line-through"
+msgstr ""
+
+#: admin/fields/typography/typography.php:144
+#: admin/fields/typography/typography.php:145
+msgid "Load Extra Styles"
+msgstr ""
+
+#: admin/fields/map/map.php:24
+msgid "Longitude"
+msgstr ""
+
+#: admin/fields/typography/typography.php:202
+msgid "Lowercase"
+msgstr ""
+
+#: admin/fields/background/background.php:279
+msgid "Luminosity"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1094
+msgid "Medium"
+msgstr ""
+
+#: inc/scs-plugin-options.php:836
+msgid "Message button text"
+msgstr ""
+
+#: inc/scs-plugin-options.php:816
+msgid "Message from agent"
+msgstr ""
+
+#: inc/scs-plugin-options.php:520
+#: view/elementor-widgets/widgets/buttons.php:703
+msgid "MET"
+msgstr ""
+
+#: inc/scs-plugin-options.php:523
+#: view/elementor-widgets/widgets/buttons.php:706
+msgid "Mexico/BajaNorte"
+msgstr ""
+
+#: inc/scs-plugin-options.php:524
+#: view/elementor-widgets/widgets/buttons.php:707
+msgid "Mexico/BajaSur"
+msgstr ""
+
+#: inc/scs-plugin-options.php:525
+#: view/elementor-widgets/widgets/buttons.php:708
+msgid "Mexico/General"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1078
+msgid "Mobile and tablets"
+msgstr ""
+
+#: inc/scs-plugin-options.php:873
+msgid "Mobile Only"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1079
+msgid "Mobile only"
+msgstr ""
+
+#: inc/scs-plugin-options.php:671
+#: view/elementor-widgets/widgets/buttons.php:830
+msgid "Monday"
+msgstr ""
+
+#: inc/scs-plugin-options.php:521
+#: view/elementor-widgets/widgets/buttons.php:704
+msgid "MST"
+msgstr ""
+
+#: inc/scs-plugin-options.php:522
+#: view/elementor-widgets/widgets/buttons.php:705
+msgid "MST7MDT"
+msgstr ""
+
+#: admin/fields/background/background.php:271
+msgid "Multiply"
+msgstr ""
+
+#: inc/scs-plugin-options.php:528
+#: view/elementor-widgets/widgets/buttons.php:711
+msgid "Navajo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:887
+msgid "Night mode"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1266
+#: view/elementor-widgets/widgets/buttons.php:1312
+msgid "No"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:595 admin/functions/actions.php:41
+#: admin/fields/button_set/button_set.php:56
+#: admin/fields/checkbox/checkbox.php:82 admin/fields/radio/radio.php:75
+#: admin/fields/select/select.php:113
+msgid "No data available."
+msgstr ""
+
+#: admin/fields/background/background.php:186
+msgid "No Repeat"
+msgstr ""
+
+#: admin/classes/setup.class.php:610
+msgid "No results found."
+msgstr ""
+
+#: admin/fields/border/border.php:59 admin/fields/typography/typography.php:199
+#: admin/fields/typography/typography.php:213
+msgid "None"
+msgstr ""
+
+#: admin/fields/background/background.php:270
+#: admin/fields/link_color/link_color.php:36
+#: admin/fields/typography/typography.php:186
+msgid "Normal"
+msgstr ""
+
+#: admin/fields/background/background.php:36 admin/fields/media/media.php:59
+msgid "Not selected"
+msgstr ""
+
+#: inc/scs-plugin-options.php:526
+#: view/elementor-widgets/widgets/buttons.php:709
+msgid "NZ"
+msgstr ""
+
+#: inc/scs-plugin-options.php:527
+#: view/elementor-widgets/widgets/buttons.php:710
+msgid "NZ-CHAT"
+msgstr ""
+
+#: admin/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:152
+msgid "Offline badget text"
+msgstr ""
+
+#: admin/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:138
+msgid "Online badget text"
+msgstr ""
+
+#: admin/classes/setup.class.php:708
+msgid "Oops! Not allowed."
+msgstr ""
+
+#: admin/fields/border/border.php:56
+msgid "Outset"
+msgstr ""
+
+#: admin/fields/background/background.php:273
+msgid "Overlay"
+msgstr ""
+
+#: admin/fields/typography/typography.php:219
+msgid "Overline"
+msgstr ""
+
+#: inc/scs-plugin-options.php:531
+#: view/elementor-widgets/widgets/buttons.php:714
+msgid "Pacific/Apia"
+msgstr ""
+
+#: inc/scs-plugin-options.php:532
+#: view/elementor-widgets/widgets/buttons.php:715
+msgid "Pacific/Auckland"
+msgstr ""
+
+#: inc/scs-plugin-options.php:533
+#: view/elementor-widgets/widgets/buttons.php:716
+msgid "Pacific/Bougainville"
+msgstr ""
+
+#: inc/scs-plugin-options.php:534
+#: view/elementor-widgets/widgets/buttons.php:717
+msgid "Pacific/Chatham"
+msgstr ""
+
+#: inc/scs-plugin-options.php:535
+#: view/elementor-widgets/widgets/buttons.php:718
+msgid "Pacific/Chuuk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:536
+#: view/elementor-widgets/widgets/buttons.php:719
+msgid "Pacific/Easter"
+msgstr ""
+
+#: inc/scs-plugin-options.php:537
+#: view/elementor-widgets/widgets/buttons.php:720
+msgid "Pacific/Efate"
+msgstr ""
+
+#: inc/scs-plugin-options.php:538
+#: view/elementor-widgets/widgets/buttons.php:721
+msgid "Pacific/Enderbury"
+msgstr ""
+
+#: inc/scs-plugin-options.php:539
+#: view/elementor-widgets/widgets/buttons.php:722
+msgid "Pacific/Fakaofo"
+msgstr ""
+
+#: inc/scs-plugin-options.php:540
+#: view/elementor-widgets/widgets/buttons.php:723
+msgid "Pacific/Fiji"
+msgstr ""
+
+#: inc/scs-plugin-options.php:541
+#: view/elementor-widgets/widgets/buttons.php:724
+msgid "Pacific/Funafuti"
+msgstr ""
+
+#: inc/scs-plugin-options.php:542
+#: view/elementor-widgets/widgets/buttons.php:725
+msgid "Pacific/Galapagos"
+msgstr ""
+
+#: inc/scs-plugin-options.php:543
+#: view/elementor-widgets/widgets/buttons.php:726
+msgid "Pacific/Gambier"
+msgstr ""
+
+#: inc/scs-plugin-options.php:544
+#: view/elementor-widgets/widgets/buttons.php:727
+msgid "Pacific/Guadalcanal"
+msgstr ""
+
+#: inc/scs-plugin-options.php:545
+#: view/elementor-widgets/widgets/buttons.php:728
+msgid "Pacific/Guam"
+msgstr ""
+
+#: inc/scs-plugin-options.php:546
+#: view/elementor-widgets/widgets/buttons.php:729
+msgid "Pacific/Honolulu"
+msgstr ""
+
+#: inc/scs-plugin-options.php:547
+#: view/elementor-widgets/widgets/buttons.php:730
+msgid "Pacific/Johnston"
+msgstr ""
+
+#: inc/scs-plugin-options.php:548
+#: view/elementor-widgets/widgets/buttons.php:731
+msgid "Pacific/Kiritimati"
+msgstr ""
+
+#: inc/scs-plugin-options.php:549
+#: view/elementor-widgets/widgets/buttons.php:732
+msgid "Pacific/Kosrae"
+msgstr ""
+
+#: inc/scs-plugin-options.php:550
+#: view/elementor-widgets/widgets/buttons.php:733
+msgid "Pacific/Kwajalein"
+msgstr ""
+
+#: inc/scs-plugin-options.php:551
+#: view/elementor-widgets/widgets/buttons.php:734
+msgid "Pacific/Majuro"
+msgstr ""
+
+#: inc/scs-plugin-options.php:552
+#: view/elementor-widgets/widgets/buttons.php:735
+msgid "Pacific/Marquesas"
+msgstr ""
+
+#: inc/scs-plugin-options.php:553
+#: view/elementor-widgets/widgets/buttons.php:736
+msgid "Pacific/Midway"
+msgstr ""
+
+#: inc/scs-plugin-options.php:554
+#: view/elementor-widgets/widgets/buttons.php:737
+msgid "Pacific/Nauru"
+msgstr ""
+
+#: inc/scs-plugin-options.php:555
+#: view/elementor-widgets/widgets/buttons.php:738
+msgid "Pacific/Niue"
+msgstr ""
+
+#: inc/scs-plugin-options.php:556
+#: view/elementor-widgets/widgets/buttons.php:739
+msgid "Pacific/Norfolk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:557
+#: view/elementor-widgets/widgets/buttons.php:740
+msgid "Pacific/Noumea"
+msgstr ""
+
+#: inc/scs-plugin-options.php:558
+#: view/elementor-widgets/widgets/buttons.php:741
+msgid "Pacific/Pago_Pago"
+msgstr ""
+
+#: inc/scs-plugin-options.php:559
+#: view/elementor-widgets/widgets/buttons.php:742
+msgid "Pacific/Palau"
+msgstr ""
+
+#: inc/scs-plugin-options.php:560
+#: view/elementor-widgets/widgets/buttons.php:743
+msgid "Pacific/Pitcairn"
+msgstr ""
+
+#: inc/scs-plugin-options.php:561
+#: view/elementor-widgets/widgets/buttons.php:744
+msgid "Pacific/Pohnpei"
+msgstr ""
+
+#: inc/scs-plugin-options.php:562
+#: view/elementor-widgets/widgets/buttons.php:745
+msgid "Pacific/Ponape"
+msgstr ""
+
+#: inc/scs-plugin-options.php:563
+#: view/elementor-widgets/widgets/buttons.php:746
+msgid "Pacific/Port_Moresby"
+msgstr ""
+
+#: inc/scs-plugin-options.php:564
+#: view/elementor-widgets/widgets/buttons.php:747
+msgid "Pacific/Rarotonga"
+msgstr ""
+
+#: inc/scs-plugin-options.php:565
+#: view/elementor-widgets/widgets/buttons.php:748
+msgid "Pacific/Saipan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:566
+#: view/elementor-widgets/widgets/buttons.php:749
+msgid "Pacific/Samoa"
+msgstr ""
+
+#: inc/scs-plugin-options.php:567
+#: view/elementor-widgets/widgets/buttons.php:750
+msgid "Pacific/Tahiti"
+msgstr ""
+
+#: inc/scs-plugin-options.php:568
+#: view/elementor-widgets/widgets/buttons.php:751
+msgid "Pacific/Tarawa"
+msgstr ""
+
+#: inc/scs-plugin-options.php:569
+#: view/elementor-widgets/widgets/buttons.php:752
+msgid "Pacific/Tongatapu"
+msgstr ""
+
+#: inc/scs-plugin-options.php:570
+#: view/elementor-widgets/widgets/buttons.php:753
+msgid "Pacific/Truk"
+msgstr ""
+
+#: inc/scs-plugin-options.php:571
+#: view/elementor-widgets/widgets/buttons.php:754
+msgid "Pacific/Wake"
+msgstr ""
+
+#: inc/scs-plugin-options.php:572
+#: view/elementor-widgets/widgets/buttons.php:755
+msgid "Pacific/Wallis"
+msgstr ""
+
+#: inc/scs-plugin-options.php:573
+#: view/elementor-widgets/widgets/buttons.php:756
+msgid "Pacific/Yap"
+msgstr ""
+
+#: admin/fields/background/background.php:236
+#: admin/fields/background/background.php:254
+msgid "Padding Box"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:256
+msgid "PHP"
+msgstr ""
+
+#: admin/classes/setup.class.php:608
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: admin/functions/validate.php:14 admin/functions/validate.php:86
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/functions/validate.php:32 admin/functions/validate.php:106
+msgid "Please enter a valid number."
+msgstr ""
+
+#: admin/functions/validate.php:68 admin/functions/validate.php:146
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: inc/scs-plugin-options.php:574
+#: view/elementor-widgets/widgets/buttons.php:757
+msgid "Poland"
+msgstr ""
+
+#: inc/scs-plugin-options.php:575
+#: view/elementor-widgets/widgets/buttons.php:758
+msgid "Portugal"
+msgstr ""
+
+#: inc/scs-plugin-options.php:529
+#: view/elementor-widgets/widgets/buttons.php:712
+msgid "PRC"
+msgstr ""
+
+#: inc/scs-plugin-options.php:530
+#: view/elementor-widgets/widgets/buttons.php:713
+msgid "PST8PDT"
+msgstr ""
+
+#: inc/scs-plugin-options.php:926
+msgid "Random"
+msgstr ""
+
+#: admin/fields/media/media.php:26 admin/fields/upload/upload.php:25
+msgid "Remove"
+msgstr ""
+
+#: admin/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: admin/fields/link/link.php:22
+msgid "Remove Link"
+msgstr ""
+
+#: admin/fields/background/background.php:185
+msgid "Repeat"
+msgstr ""
+
+#: admin/fields/background/background.php:187
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/fields/background/background.php:188
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:504
+#: admin/classes/admin-options.class.php:618 admin/fields/backup/backup.php:31
+msgid "Reset"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:504
+#: admin/classes/admin-options.class.php:618
+msgid "Reset All"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:503
+#: admin/classes/admin-options.class.php:617
+msgid "Reset Section"
+msgstr ""
+
+#: admin/fields/border/border.php:58
+msgid "ridge"
+msgstr ""
+
+#: inc/scs-plugin-options.php:859 admin/fields/typography/typography.php:173
+#: view/elementor-widgets/widgets/buttons.php:1332
+msgid "Right"
+msgstr ""
+
+#: admin/fields/border/border.php:26 admin/fields/spacing/spacing.php:31
+msgid "right"
+msgstr ""
+
+#: admin/fields/background/background.php:170
+msgid "Right Bottom"
+msgstr ""
+
+#: admin/fields/background/background.php:169
+msgid "Right Center"
+msgstr ""
+
+#: admin/fields/background/background.php:168
+msgid "Right Top"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:19
+#: view/elementor-widgets/widgets/buttons.php:103
+msgid "Robert"
+msgstr ""
+
+#: inc/scs-plugin-options.php:576
+#: view/elementor-widgets/widgets/buttons.php:759
+msgid "ROC"
+msgstr ""
+
+#: inc/scs-plugin-options.php:577
+#: view/elementor-widgets/widgets/buttons.php:760
+msgid "ROK"
+msgstr ""
+
+#: inc/scs-plugin-options.php:974
+msgid "Rotate"
+msgstr ""
+
+#: inc/scs-plugin-options.php:920
+msgid "Rotate Left"
+msgstr ""
+
+#: inc/scs-plugin-options.php:916
+msgid "Rotation"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1309
+msgid "Rounded?"
+msgstr ""
+
+#: admin/fields/typography/typography.php:368
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:20
+#: view/elementor-widgets/widgets/buttons.php:117
+msgid "Sales Support"
+msgstr ""
+
+#: admin/fields/background/background.php:277
+msgid "Saturation"
+msgstr ""
+
+#: inc/scs-plugin-options.php:759
+#: view/elementor-widgets/widgets/buttons.php:1024
+msgid "Saturday"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:502
+#: admin/classes/admin-options.class.php:616
+msgid "Save"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:502
+#: admin/classes/admin-options.class.php:616
+msgid "Saving..."
+msgstr ""
+
+#: admin/fields/background/background.php:272
+msgid "Screen"
+msgstr ""
+
+#: admin/fields/background/background.php:203
+msgid "Scroll"
+msgstr ""
+
+#: inc/scs-plugin-options.php:617
+msgid "SCS settings"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:499 admin/fields/icon/icon.php:57
+#: admin/fields/map/map.php:22
+msgid "Search..."
+msgstr ""
+
+#: admin/classes/setup.class.php:609
+msgid "Searching..."
+msgstr ""
+
+#: admin/fields/typography/typography.php:97
+msgid "Select a font"
+msgstr ""
+
+#: inc/scs-plugin-options.php:911
+msgid "Select animation for bubble"
+msgstr ""
+
+#: inc/scs-plugin-options.php:971
+msgid "Select animation for circle icon"
+msgstr ""
+
+#: inc/scs-plugin-options.php:882
+msgid "Select bubble layout mode"
+msgstr ""
+
+#: inc/scs-plugin-options.php:1014
+msgid "Select button style"
+msgstr ""
+
+#: inc/scs-plugin-options.php:640
+#: view/elementor-widgets/widgets/buttons.php:189
+msgid "Select timezone"
+msgstr ""
+
+#: inc/scs-plugin-options.php:838
+msgid "Send a message"
+msgstr ""
+
+#: skype-chat.php:50
+msgid "Settings"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:318
+msgid "Settings saved."
+msgstr ""
+
+#: admin/classes/admin-options.class.php:233
+msgid "Settings successfully imported."
+msgstr ""
+
+#: admin/classes/admin-options.class.php:497
+msgid "show all settings"
+msgstr ""
+
+#: inc/scs-plugin-options.php:578
+#: view/elementor-widgets/widgets/buttons.php:761
+msgid "Singapore"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1088
+msgid "Size"
+msgstr ""
+
+#: inc/scs-plugin-options.php:627 view/elementor-widgets/widgets/buttons.php:58
+msgid "Skype ID"
+msgstr ""
+
+#: inc/scs-plugin-options.php:918
+msgid "Slide Down"
+msgstr ""
+
+#: inc/scs-plugin-options.php:973
+msgid "Slide down"
+msgstr ""
+
+#: inc/scs-plugin-options.php:917
+msgid "Slide Fall"
+msgstr ""
+
+#: inc/scs-plugin-options.php:925 inc/scs-plugin-options.php:976
+msgid "Slide Up"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1093
+msgid "Small"
+msgstr ""
+
+#: admin/fields/typography/typography.php:187
+msgid "Small Caps"
+msgstr ""
+
+#: admin/fields/border/border.php:51 admin/fields/typography/typography.php:214
+msgid "Solid"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:800
+#: view/elementor-widgets/widgets/buttons.php:839
+#: view/elementor-widgets/widgets/buttons.php:878
+#: view/elementor-widgets/widgets/buttons.php:917
+#: view/elementor-widgets/widgets/buttons.php:956
+#: view/elementor-widgets/widgets/buttons.php:995
+#: view/elementor-widgets/widgets/buttons.php:1033
+msgid "Start time"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:68
+msgid "Style"
+msgstr ""
+
+#: admin/fields/typography/typography.php:158
+msgid "Subset"
+msgstr ""
+
+#: inc/scs-plugin-options.php:806
+msgid "Subtitle"
+msgstr ""
+
+#: inc/scs-plugin-options.php:654
+#: view/elementor-widgets/widgets/buttons.php:790
+msgid "Sunday"
+msgstr ""
+
+#: inc/scs-plugin-options.php:924
+msgid "Super Scaled"
+msgstr ""
+
+#: inc/scs-plugin-options.php:872
+msgid "Tablet Only"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1077
+msgid "Tablets only"
+msgstr ""
+
+#: admin/fields/typography/typography.php:168
+msgid "Text Align"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1127
+msgid "Text color"
+msgstr ""
+
+#: admin/fields/typography/typography.php:211
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/fields/typography/typography.php:197
+msgid "Text Transform"
+msgstr ""
+
+#: inc/scs-plugin-options.php:608
+msgid "Thank you for using our product"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeAtelier"
+msgstr ""
+
+#: admin/functions/validate.php:50 admin/functions/validate.php:126
+msgid "This field is required."
+msgstr ""
+
+#: inc/scs-plugin-options.php:723
+#: view/elementor-widgets/widgets/buttons.php:947
+msgid "Thursday"
+msgstr ""
+
+#: inc/scs-plugin-options.php:637
+#: view/elementor-widgets/widgets/buttons.php:182
+msgid "Timezone"
+msgstr ""
+
+#: admin/fields/background/background.php:90 admin/fields/date/date.php:37
+#: admin/fields/datetime/datetime.php:37
+msgid "To"
+msgstr ""
+
+#: admin/fields/border/border.php:25 admin/fields/spacing/spacing.php:30
+msgid "top"
+msgstr ""
+
+#: inc/scs-plugin-options.php:688
+#: view/elementor-widgets/widgets/buttons.php:869
+msgid "Tuesday"
+msgstr ""
+
+#: inc/scs-plugin-options.php:579
+#: view/elementor-widgets/widgets/buttons.php:762
+msgid "Turkey"
+msgstr ""
+
+#: inc/scs-plugin-options.php:848
+msgid "Turn ON for open popup automatically."
+msgstr ""
+
+#: inc/scs-plugin-options.php:808
+msgid "Typically replies within a day"
+msgstr ""
+
+#: inc/scs-plugin-options.php:580
+#: view/elementor-widgets/widgets/buttons.php:763
+msgid "UCT"
+msgstr ""
+
+#: inc/scs-plugin-options.php:595
+#: view/elementor-widgets/widgets/buttons.php:778
+msgid "Universal"
+msgstr ""
+
+#: admin/fields/media/media.php:25 admin/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: admin/fields/typography/typography.php:201
+msgid "Uppercase"
+msgstr ""
+
+#: inc/scs-plugin-options.php:581
+#: view/elementor-widgets/widgets/buttons.php:764
+msgid "US/Alaska"
+msgstr ""
+
+#: inc/scs-plugin-options.php:582
+#: view/elementor-widgets/widgets/buttons.php:765
+msgid "US/Aleutian"
+msgstr ""
+
+#: inc/scs-plugin-options.php:583
+#: view/elementor-widgets/widgets/buttons.php:766
+msgid "US/Arizona"
+msgstr ""
+
+#: inc/scs-plugin-options.php:584
+#: view/elementor-widgets/widgets/buttons.php:767
+msgid "US/Central"
+msgstr ""
+
+#: inc/scs-plugin-options.php:585
+#: view/elementor-widgets/widgets/buttons.php:768
+msgid "US/East-Indiana"
+msgstr ""
+
+#: inc/scs-plugin-options.php:586
+#: view/elementor-widgets/widgets/buttons.php:769
+msgid "US/Eastern"
+msgstr ""
+
+#: inc/scs-plugin-options.php:587
+#: view/elementor-widgets/widgets/buttons.php:770
+msgid "US/Hawaii"
+msgstr ""
+
+#: inc/scs-plugin-options.php:588
+#: view/elementor-widgets/widgets/buttons.php:771
+msgid "US/Indiana-Starke"
+msgstr ""
+
+#: inc/scs-plugin-options.php:589
+#: view/elementor-widgets/widgets/buttons.php:772
+msgid "US/Michigan"
+msgstr ""
+
+#: inc/scs-plugin-options.php:590
+#: view/elementor-widgets/widgets/buttons.php:773
+msgid "US/Mountain"
+msgstr ""
+
+#: inc/scs-plugin-options.php:591
+#: view/elementor-widgets/widgets/buttons.php:774
+msgid "US/Pacific"
+msgstr ""
+
+#: inc/scs-plugin-options.php:592
+#: view/elementor-widgets/widgets/buttons.php:775
+msgid "US/Pacific-New"
+msgstr ""
+
+#: inc/scs-plugin-options.php:593
+#: view/elementor-widgets/widgets/buttons.php:776
+msgid "US/Samoa"
+msgstr ""
+
+#: inc/scs-plugin-options.php:594
+#: view/elementor-widgets/widgets/buttons.php:777
+msgid "UTC"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1070
+msgid "Visibility on"
+msgstr ""
+
+#: admin/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr ""
+
+#: inc/scs-plugin-options.php:596
+#: view/elementor-widgets/widgets/buttons.php:779
+msgid "W-SU"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1263
+msgid "Want bg in icon?"
+msgstr ""
+
+#: admin/fields/typography/typography.php:218
+msgid "Wavy"
+msgstr ""
+
+#: inc/scs-plugin-options.php:705
+#: view/elementor-widgets/widgets/buttons.php:908
+msgid "Wednesday"
+msgstr ""
+
+#: inc/scs-plugin-options.php:597
+#: view/elementor-widgets/widgets/buttons.php:780
+msgid "WET"
+msgstr ""
+
+#: inc/scs-plugin-options.php:638
+#: view/elementor-widgets/widgets/buttons.php:183
+msgid ""
+"When using the date and time from the user browser you can transform it to "
+"your current timezone (in case your user is in a different timezone)"
+msgstr ""
+
+#: admin/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr ""
+
+#: admin/fields/typography/typography.php:269
+msgid "Word Spacing"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:114
+msgid "Write agent designation to show in button."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:100
+msgid "Write agent name to show in button."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1265
+#: view/elementor-widgets/widgets/buttons.php:1311
+msgid "Yes"
+msgstr ""
+
+#: admin/fields/group/group.php:141 admin/fields/repeater/repeater.php:89
+msgid "You cannot add more."
+msgstr ""
+
+#: admin/fields/group/group.php:142 admin/fields/repeater/repeater.php:90
+msgid "You cannot remove more."
+msgstr ""
+
+#: admin/classes/admin-options.class.php:495
+msgid "You have unsaved changes, save your changes!"
+msgstr ""
+
+#: skype-chat.php:23
+msgid "You should not access this file directly.!"
+msgstr ""
